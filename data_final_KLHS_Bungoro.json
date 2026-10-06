@@ -1,0 +1,3922 @@
+{
+  "metadata": {
+    "judul": "KLHS RDTR Kecamatan Bungoro, Kabupaten Pangkajene dan Kepulauan – Hasil Pemetaan Isu, Root Cause Analysis (Causal Loop), Dampak Berantai, Dampak Risiko, dan Penyepakatan",
+    "versi": "final-1",
+    "tanggal_dibuat": "2026-10-06",
+    "wilayah_perencanaan_ha": 8955.9,
+    "alur": [
+      "173 butir longlist",
+      "17 tema (T1–T17)",
+      "causal loop & root cause analysis",
+      "4 isu PB paling strategis S1–S4",
+      "dampak berantai (cascading impact)",
+      "uji tingkat potensi dampak dan kaitan aspek LH",
+      "penyepakatan"
+    ],
+    "catatan": "Skor hubungan causal loop dan tingkat potensi dampak adalah penilaian awal analis; status bukti tiap hubungan tercantum pada atribut status_bukti. Isu S1–S4 mengikuti file 03_isu_inti_bungoro.csv (nomor asal 2–5).",
+    "catatan_data": [
+      "Sheet \"Rekapitulasi Bahaya (H)\" pada file Tabulasi Bahaya memuat angka yang identik dengan KRB Tana Lili (banjir 3.015,5 ha; bandang 584,0 ha; GEA 252,7 ha; longsor 17,6 ha). Angka bahaya Bungoro di sini memakai total \"Kecamatan Bungoro\" pada sheet per jenis bencana.",
+      "Tabulasi bahaya, kapasitas, dan risiko hanya mencakup 7 desa (tanpa Tabo-Tabo); tabulasi lingkungan mencakup 8 desa (8.955,9 ha).",
+      "Data penduduk terpapar (jiwa), kerugian (Rp), dan kerusakan LH (ha) tidak tersedia pada tabulasi Bungoro sehingga dikosongkan (null).",
+      "Nama dokumen sumber D1–D10 tidak tercantum pada file longlist; keterangan pada sumber_data adalah indikasi dari isi butir dan perlu dikonfirmasi."
+    ]
+  },
+  "sumber_data": {
+    "D1": "Analisis tabulasi karakteristik wilayah & D3TLH/JLH Kecamatan Bungoro (penutupan lahan, KBAK, LP2B, WIUP, kerentanan iklim) – nama dokumen perlu dikonfirmasi",
+    "D2": "Karakteristik wilayah dan muatan LH (Semen Tonasa, KIPA, koridor KA, batas administrasi) – nama dokumen perlu dikonfirmasi",
+    "D3": "Penelaahan tren/penjaringan isu (ekosistem air, tutupan vegetasi, produksi pangan, ekosistem pesisir) – nama dokumen perlu dikonfirmasi",
+    "D4": "Dokumen perencanaan jangka panjang (kemiskinan, pendidikan, tata kelola, kearifan lokal) – nama dokumen perlu dikonfirmasi",
+    "D5": "Dokumen perencanaan jangka menengah/TPB (air bersih, pekerjaan layak, industri, kemitraan) – nama dokumen perlu dikonfirmasi",
+    "D6": "Isu kesehatan lingkungan, perlindungan sosial dan kapasitas mitigasi bencana – nama dokumen perlu dikonfirmasi",
+    "D7": "Kerangka safeguards sosial (GEDSI, tenurial, pengaduan, partisipasi) – nama dokumen perlu dikonfirmasi",
+    "D8": "Isu prioritas lingkungan daerah (alih fungsi lahan, kualitas air/udara, sampah, adaptasi) – nama dokumen perlu dikonfirmasi",
+    "D9": "Aspirasi konsultasi desa/kelurahan (Sapanang, Samalewa, Mangilu, Bori Appaka, Bulu Cindea, Biring Ere) – nama kegiatan perlu dikonfirmasi",
+    "D10": "Kajian bencana, pesisir, karst dan tekanan ruang (banjir, abrasi, rob, gempa, tambang) – nama dokumen perlu dikonfirmasi"
+  },
+  "longlist": [
+    {
+      "no": 1,
+      "isu": "D3TLH terlampaui pada 1.178,78 ha atau 13,14% wilayah Bungoro.",
+      "sumber": "D1",
+      "tema": "T1",
+      "variabel_loop": "N14",
+      "tema_sekunder": null
+    },
+    {
+      "no": 2,
+      "isu": "KBAK mencakup sekitar 2.000,24 ha dan perlu dijaga fungsi lindungnya.",
+      "sumber": "D1",
+      "tema": "T1",
+      "variabel_loop": "N12",
+      "tema_sekunder": null
+    },
+    {
+      "no": 3,
+      "isu": "Lahan kritis di Tabo-Tabo mencapai 435,44 ha; 99,22% sangat kritis.",
+      "sumber": "D1",
+      "tema": "T1",
+      "variabel_loop": "N13",
+      "tema_sekunder": null
+    },
+    {
+      "no": 4,
+      "isu": "Sekitar 33,01% wilayah berada pada KRB gempabumi kelas menengah.",
+      "sumber": "D1",
+      "tema": "T4",
+      "variabel_loop": "N20",
+      "tema_sekunder": null
+    },
+    {
+      "no": 5,
+      "isu": "Sekitar 5,21% wilayah berada pada kerentanan gerakan tanah kelas menengah.",
+      "sumber": "D1",
+      "tema": "T4",
+      "variabel_loop": "N20",
+      "tema_sekunder": null
+    },
+    {
+      "no": 6,
+      "isu": "Sebanyak 98,87% wilayah memiliki JLH penyedia air kelas sangat rendah–sedang.",
+      "sumber": "D1",
+      "tema": "T7",
+      "variabel_loop": "N14",
+      "tema_sekunder": null
+    },
+    {
+      "no": 7,
+      "isu": "Sebanyak 52,66% wilayah memiliki JLH pengatur air kelas sangat rendah–rendah.",
+      "sumber": "D1",
+      "tema": "T7",
+      "variabel_loop": "N14",
+      "tema_sekunder": null
+    },
+    {
+      "no": 8,
+      "isu": "Sebanyak 82,03% wilayah memiliki JLH penyerap karbon kelas sangat rendah–rendah.",
+      "sumber": "D1",
+      "tema": "T1",
+      "variabel_loop": "N14",
+      "tema_sekunder": null
+    },
+    {
+      "no": 9,
+      "isu": "Sebanyak 68,49% wilayah memiliki JLH habitat/kehati kelas sangat rendah–rendah.",
+      "sumber": "D1",
+      "tema": "T2",
+      "variabel_loop": "N12",
+      "tema_sekunder": null
+    },
+    {
+      "no": 10,
+      "isu": "Sekitar 57,45% wilayah tergolong JLH tidak tinggi.",
+      "sumber": "D1",
+      "tema": "T1",
+      "variabel_loop": "N14",
+      "tema_sekunder": null
+    },
+    {
+      "no": 11,
+      "isu": "Seluruh area analisis kerentanan iklim berada pada kelas sedang.",
+      "sumber": "D1",
+      "tema": "T3",
+      "variabel_loop": "N6",
+      "tema_sekunder": null
+    },
+    {
+      "no": 12,
+      "isu": "Mangrove Bungoro sekitar 51,14 ha; 91,86% berkerapatan lebat.",
+      "sumber": "D1",
+      "tema": "T9",
+      "variabel_loop": "N18",
+      "tema_sekunder": null
+    },
+    {
+      "no": 13,
+      "isu": "KBA Kapoposang–Pangkep–Bulurokeng mencakup sekitar 24,77 ha.",
+      "sumber": "D1",
+      "tema": "T2",
+      "variabel_loop": "N12",
+      "tema_sekunder": null
+    },
+    {
+      "no": 14,
+      "isu": "Lokasi prioritas FOLU Net Sink 2030 terdapat terutama di Tabo-Tabo.",
+      "sumber": "D1",
+      "tema": "T1",
+      "variabel_loop": "N12",
+      "tema_sekunder": null
+    },
+    {
+      "no": 15,
+      "isu": "PIPPIB 2026 di Tabo-Tabo mencapai sekitar 1.998,19 ha.",
+      "sumber": "D1",
+      "tema": "T1",
+      "variabel_loop": "N12",
+      "tema_sekunder": null
+    },
+    {
+      "no": 16,
+      "isu": "LP2B Bungoro mencapai sekitar 1.697,88 ha.",
+      "sumber": "D1",
+      "tema": "T13",
+      "variabel_loop": "N8",
+      "tema_sekunder": null
+    },
+    {
+      "no": 17,
+      "isu": "WIUP terpetakan sekitar 214,06 ha, terutama batu gamping dan marmer.",
+      "sumber": "D1",
+      "tema": "T14",
+      "variabel_loop": "N4",
+      "tema_sekunder": null
+    },
+    {
+      "no": 18,
+      "isu": "Tutupan lahan didominasi sawah, lahan kering campur, dan tambak.",
+      "sumber": "D1",
+      "tema": "T13",
+      "variabel_loop": "N8",
+      "tema_sekunder": null
+    },
+    {
+      "no": 19,
+      "isu": "Permukiman dan kegiatan budidaya berdekatan dengan kawasan hutan.",
+      "sumber": "D2",
+      "tema": "T1",
+      "variabel_loop": "N12",
+      "tema_sekunder": null
+    },
+    {
+      "no": 20,
+      "isu": "Aktivitas Semen Tonasa berpotensi menekan kualitas udara dan kesehatan.",
+      "sumber": "D2",
+      "tema": "T10",
+      "variabel_loop": "N10",
+      "tema_sekunder": null
+    },
+    {
+      "no": 21,
+      "isu": "Mangrove Bulu Cindea dan Bori Appaka berada di kawasan pesisir produktif.",
+      "sumber": "D2",
+      "tema": "T9",
+      "variabel_loop": "N18",
+      "tema_sekunder": null
+    },
+    {
+      "no": 22,
+      "isu": "Luapan Bendungan Tabo-Tabo pernah memutus akses jalan warga.",
+      "sumber": "D2",
+      "tema": "T5",
+      "variabel_loop": "N17",
+      "tema_sekunder": null
+    },
+    {
+      "no": 23,
+      "isu": "Terdapat permukiman/lahan masyarakat di sekitar atau dalam kawasan hutan.",
+      "sumber": "D2",
+      "tema": "T15",
+      "variabel_loop": "N2",
+      "tema_sekunder": null
+    },
+    {
+      "no": 24,
+      "isu": "Pesisir menghadapi masalah sanitasi, gizi, dan kesehatan lingkungan.",
+      "sumber": "D2",
+      "tema": "T12",
+      "variabel_loop": "N11",
+      "tema_sekunder": null
+    },
+    {
+      "no": 25,
+      "isu": "Terdapat indikasi konflik lahan sawah/LP2B di Sapanang dan Samalewa.",
+      "sumber": "D2",
+      "tema": "T15",
+      "variabel_loop": "N2",
+      "tema_sekunder": null
+    },
+    {
+      "no": 26,
+      "isu": "Kompleks Pemakaman Raja Siang perlu dilindungi dalam penataan ruang.",
+      "sumber": "D2",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 27,
+      "isu": "Bungoro menjadi koridor strategis kereta api, jalan, dan pelabuhan.",
+      "sumber": "D2",
+      "tema": "T17",
+      "variabel_loop": "N3",
+      "tema_sekunder": null
+    },
+    {
+      "no": 28,
+      "isu": "Bungoro diarahkan untuk pengembangan KIPA dan kawasan industri.",
+      "sumber": "D2",
+      "tema": "T14",
+      "variabel_loop": "N3",
+      "tema_sekunder": null
+    },
+    {
+      "no": 29,
+      "isu": "Manfaat ekonomi industri/marmer belum merata antarwilayah dan kelompok.",
+      "sumber": "D2",
+      "tema": "T14",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 30,
+      "isu": "Bungoro berpotensi dikembangkan sebagai simpul industri maritim dan pelabuhan.",
+      "sumber": "D2",
+      "tema": "T14",
+      "variabel_loop": "N3",
+      "tema_sekunder": null
+    },
+    {
+      "no": 31,
+      "isu": "Ekonomi pesisir masih membutuhkan pengolahan hasil dan peningkatan nilai tambah.",
+      "sumber": "D2",
+      "tema": "T14",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 32,
+      "isu": "Perbedaan batas administrasi menimbulkan ketidakpastian delineasi RDTR.",
+      "sumber": "D2",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 33,
+      "isu": "Bungoro terhubung fungsional dengan Perkotaan Pangkajene dan kawasan industri.",
+      "sumber": "D2",
+      "tema": "T17",
+      "variabel_loop": "N3",
+      "tema_sekunder": null
+    },
+    {
+      "no": 34,
+      "isu": "Fungsi ekosistem penyedia dan pengatur air mengalami penurunan.",
+      "sumber": "D3",
+      "tema": "T7",
+      "variabel_loop": "N14",
+      "tema_sekunder": null
+    },
+    {
+      "no": 35,
+      "isu": "Luas dan kualitas tutupan vegetasi/hutan mengalami penurunan.",
+      "sumber": "D3",
+      "tema": "T1",
+      "variabel_loop": "N12",
+      "tema_sekunder": null
+    },
+    {
+      "no": 36,
+      "isu": "Peningkatan produksi pangan melandai dibanding pertumbuhan penduduk.",
+      "sumber": "D3",
+      "tema": "T13",
+      "variabel_loop": "N21",
+      "tema_sekunder": null
+    },
+    {
+      "no": 37,
+      "isu": "Kualitas ekosistem pesisir dan laut mengalami penurunan.",
+      "sumber": "D3",
+      "tema": "T9",
+      "variabel_loop": "N18",
+      "tema_sekunder": null
+    },
+    {
+      "no": 38,
+      "isu": "Pembangunan infrastruktur masih perlu diperkuat.",
+      "sumber": "D4",
+      "tema": "T17",
+      "variabel_loop": "N5",
+      "tema_sekunder": null
+    },
+    {
+      "no": 39,
+      "isu": "Pendidikan belum merata.",
+      "sumber": "D4",
+      "tema": "T17",
+      "variabel_loop": "N5",
+      "tema_sekunder": null
+    },
+    {
+      "no": 40,
+      "isu": "Kemiskinan masih menjadi isu pembangunan.",
+      "sumber": "D4",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 41,
+      "isu": "Pengendalian dan pengawasan penataan ruang perlu diperkuat.",
+      "sumber": "D4",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 42,
+      "isu": "Tata kelola pemerintahan perlu diperkuat.",
+      "sumber": "D4",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 43,
+      "isu": "Kearifan lokal perlu diperkuat dan dilindungi.",
+      "sumber": "D4",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 44,
+      "isu": "Kemiskinan masih menjadi isu prioritas pembangunan berkelanjutan.",
+      "sumber": "D5",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 45,
+      "isu": "Kesehatan dan kesejahteraan masyarakat masih perlu ditingkatkan.",
+      "sumber": "D5",
+      "tema": "T16",
+      "variabel_loop": "N23",
+      "tema_sekunder": null
+    },
+    {
+      "no": 46,
+      "isu": "Air bersih dan sanitasi layak belum sepenuhnya terpenuhi.",
+      "sumber": "D5",
+      "tema": "T12",
+      "variabel_loop": "N5",
+      "tema_sekunder": null
+    },
+    {
+      "no": 47,
+      "isu": "Pendidikan inklusif dan merata masih perlu diperkuat.",
+      "sumber": "D5",
+      "tema": "T17",
+      "variabel_loop": "N5",
+      "tema_sekunder": null
+    },
+    {
+      "no": 48,
+      "isu": "Permukiman yang inklusif, aman, tangguh, dan berkelanjutan perlu diperkuat.",
+      "sumber": "D5",
+      "tema": "T17",
+      "variabel_loop": "N5",
+      "tema_sekunder": null
+    },
+    {
+      "no": 49,
+      "isu": "Pekerjaan layak dan pertumbuhan ekonomi inklusif masih menjadi agenda.",
+      "sumber": "D5",
+      "tema": "T14",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 50,
+      "isu": "Konsumsi dan produksi yang bertanggung jawab masih perlu diperkuat.",
+      "sumber": "D5",
+      "tema": "T14",
+      "variabel_loop": "N3",
+      "tema_sekunder": null
+    },
+    {
+      "no": 51,
+      "isu": "Industri, inovasi, dan infrastruktur berkelanjutan masih perlu dikembangkan.",
+      "sumber": "D5",
+      "tema": "T14",
+      "variabel_loop": "N3",
+      "tema_sekunder": null
+    },
+    {
+      "no": 52,
+      "isu": "Kemitraan pembangunan berkelanjutan masih perlu diperkuat.",
+      "sumber": "D5",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 53,
+      "isu": "Kelembagaan yang efektif, akuntabel, dan inklusif masih perlu diperkuat.",
+      "sumber": "D5",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 54,
+      "isu": "Sanitasi dan kesehatan lingkungan masih menjadi isu strategis.",
+      "sumber": "D6",
+      "tema": "T12",
+      "variabel_loop": "N11",
+      "tema_sekunder": null
+    },
+    {
+      "no": 55,
+      "isu": "Kapasitas mitigasi dan penanganan bencana masih perlu ditingkatkan.",
+      "sumber": "D6",
+      "tema": "T5",
+      "variabel_loop": "N7",
+      "tema_sekunder": null
+    },
+    {
+      "no": 56,
+      "isu": "Pelayanan dasar yang inklusif masih perlu ditingkatkan.",
+      "sumber": "D6",
+      "tema": "T17",
+      "variabel_loop": "N5",
+      "tema_sekunder": null
+    },
+    {
+      "no": 57,
+      "isu": "Pelayanan kesehatan dan KB yang inklusif masih perlu diperkuat.",
+      "sumber": "D6",
+      "tema": "T16",
+      "variabel_loop": "N23",
+      "tema_sekunder": null
+    },
+    {
+      "no": 58,
+      "isu": "Akses air minum layak dan berkelanjutan masih perlu ditingkatkan.",
+      "sumber": "D6",
+      "tema": "T7",
+      "variabel_loop": "N5",
+      "tema_sekunder": null
+    },
+    {
+      "no": 59,
+      "isu": "Pengendalian penyakit berbasis vektor masih perlu diperkuat.",
+      "sumber": "D6",
+      "tema": "T12",
+      "variabel_loop": "N23",
+      "tema_sekunder": null
+    },
+    {
+      "no": 60,
+      "isu": "Perlindungan sosial bagi masyarakat miskin dan rentan belum optimal.",
+      "sumber": "D6",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 61,
+      "isu": "Produksi ramah lingkungan dan industri hijau belum optimal.",
+      "sumber": "D6",
+      "tema": "T14",
+      "variabel_loop": "N3",
+      "tema_sekunder": null
+    },
+    {
+      "no": 62,
+      "isu": "Pertumbuhan ekonomi dan penciptaan pekerjaan layak masih perlu diperkuat.",
+      "sumber": "D6",
+      "tema": "T14",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 63,
+      "isu": "Perubahan zonasi berpotensi menyebabkan kehilangan lahan atau aset.",
+      "sumber": "D7",
+      "tema": "T15",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 64,
+      "isu": "Perubahan ruang berpotensi memutus akses ke air, irigasi, dan jalan.",
+      "sumber": "D7",
+      "tema": "T15",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 65,
+      "isu": "Perubahan ruang berpotensi mengubah pola kehidupan sosial-budaya.",
+      "sumber": "D7",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 66,
+      "isu": "Situs adat, makam, dan tempat ibadah berpotensi terdampak perubahan ruang.",
+      "sumber": "D7",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 67,
+      "isu": "Masyarakat adat/pemukim lama berisiko kehilangan ruang tradisional.",
+      "sumber": "D7",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 68,
+      "isu": "Perempuan berpotensi memiliki akses lebih terbatas terhadap hak atas lahan.",
+      "sumber": "D7",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 69,
+      "isu": "Lansia, rumah tangga miskin, dan rumah tangga khusus lebih rentan terdampak.",
+      "sumber": "D7",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 70,
+      "isu": "Aksesibilitas penyandang disabilitas terhadap fasilitas umum masih terbatas.",
+      "sumber": "D7",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 71,
+      "isu": "Penggarap informal dan pemilik tanpa bukti hak formal lebih rentan terdampak.",
+      "sumber": "D7",
+      "tema": "T15",
+      "variabel_loop": "N2",
+      "tema_sekunder": null
+    },
+    {
+      "no": 72,
+      "isu": "Perubahan ruang berpotensi menghilangkan usaha, pekerjaan, atau penghidupan.",
+      "sumber": "D7",
+      "tema": "T15",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 73,
+      "isu": "Pengadaan tanah memerlukan identifikasi hak, konsultasi, dan kompensasi yang adil.",
+      "sumber": "D7",
+      "tema": "T15",
+      "variabel_loop": "N2",
+      "tema_sekunder": null
+    },
+    {
+      "no": 74,
+      "isu": "Keterbukaan informasi dan partisipasi bermakna perlu dijamin.",
+      "sumber": "D7",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 75,
+      "isu": "Mekanisme pengaduan perlu mudah diakses, jelas, dan akuntabel.",
+      "sumber": "D7",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 76,
+      "isu": "Koordinasi, kapasitas SDM, dan anggaran safeguards masih perlu diperkuat.",
+      "sumber": "D7",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 77,
+      "isu": "Data sosial terpilah untuk kelompok rentan dan status penguasaan lahan masih terbatas.",
+      "sumber": "D7",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 78,
+      "isu": "Konflik ruang memerlukan deteksi dini dan mekanisme penyelesaian yang jelas.",
+      "sumber": "D7",
+      "tema": "T15",
+      "variabel_loop": "N2",
+      "tema_sekunder": null
+    },
+    {
+      "no": 79,
+      "isu": "Tanah belum bersertifikat dan batas lahan tumpang tindih meningkatkan risiko konflik.",
+      "sumber": "D7",
+      "tema": "T15",
+      "variabel_loop": "N2",
+      "tema_sekunder": null
+    },
+    {
+      "no": 80,
+      "isu": "Perubahan zonasi berpotensi mengganggu usaha kecil dan mata pencaharian masyarakat.",
+      "sumber": "D7",
+      "tema": "T15",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 81,
+      "isu": "Jalan pertanian dan akses ke lahan berpotensi terputus akibat pembangunan.",
+      "sumber": "D7",
+      "tema": "T15",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 82,
+      "isu": "Irigasi dan sumber air warga berpotensi terganggu oleh perubahan pemanfaatan ruang.",
+      "sumber": "D7",
+      "tema": "T7",
+      "variabel_loop": "N16",
+      "tema_sekunder": null
+    },
+    {
+      "no": 83,
+      "isu": "Informasi RDTR belum merata dan belum seluruhnya mudah dipahami masyarakat.",
+      "sumber": "D7",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 84,
+      "isu": "Mekanisme pengaduan belum sepenuhnya didukung sosialisasi, petugas, SOP, dan kerahasiaan.",
+      "sumber": "D7",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 85,
+      "isu": "Alih fungsi lahan menjadi isu prioritas lingkungan daerah.",
+      "sumber": "D8",
+      "tema": "T13",
+      "variabel_loop": "N8",
+      "tema_sekunder": null
+    },
+    {
+      "no": 86,
+      "isu": "Kualitas dan kuantitas air sungai maupun air tanah menurun.",
+      "sumber": "D8",
+      "tema": "T8",
+      "variabel_loop": "N15",
+      "tema_sekunder": null
+    },
+    {
+      "no": 87,
+      "isu": "Kualitas udara masih menjadi isu prioritas lingkungan daerah.",
+      "sumber": "D8",
+      "tema": "T10",
+      "variabel_loop": "N10",
+      "tema_sekunder": null
+    },
+    {
+      "no": 88,
+      "isu": "Kapasitas adaptasi dan mitigasi bencana masih rendah.",
+      "sumber": "D8",
+      "tema": "T3",
+      "variabel_loop": "N7",
+      "tema_sekunder": null
+    },
+    {
+      "no": 89,
+      "isu": "Pengelolaan sampah dan limbah belum optimal.",
+      "sumber": "D8",
+      "tema": "T11",
+      "variabel_loop": "N11",
+      "tema_sekunder": null
+    },
+    {
+      "no": 90,
+      "isu": "Tata kelola lingkungan, pengawasan, dan penegakan perlu diperkuat.",
+      "sumber": "D8",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 91,
+      "isu": "Perlindungan mangrove di wilayah pesisir Bulu Cendera.",
+      "sumber": "D9",
+      "tema": "T9",
+      "variabel_loop": "N18",
+      "tema_sekunder": null
+    },
+    {
+      "no": 92,
+      "isu": "Penghijauan di area pabrik untuk menjaga kualitas lingkungan.",
+      "sumber": "D9",
+      "tema": "T10",
+      "variabel_loop": "N10",
+      "tema_sekunder": null
+    },
+    {
+      "no": 93,
+      "isu": "Banjir, kekeringan, dan penyempitan sungai di Kelurahan Bori Appaka.",
+      "sumber": "D9",
+      "tema": "T5",
+      "variabel_loop": "N17",
+      "tema_sekunder": null
+    },
+    {
+      "no": 94,
+      "isu": "Pencemaran udara akibat perusahaan dan transportasi di Sapanang.",
+      "sumber": "D9",
+      "tema": "T10",
+      "variabel_loop": "N10",
+      "tema_sekunder": null
+    },
+    {
+      "no": 95,
+      "isu": "Banjir di Sapanang.",
+      "sumber": "D9",
+      "tema": "T5",
+      "variabel_loop": "N17",
+      "tema_sekunder": null
+    },
+    {
+      "no": 96,
+      "isu": "Kesulitan air bersih di Sapanang.",
+      "sumber": "D9",
+      "tema": "T7",
+      "variabel_loop": "N16",
+      "tema_sekunder": null
+    },
+    {
+      "no": 97,
+      "isu": "Pencemaran udara akibat debu di Desa Mangilu.",
+      "sumber": "D9",
+      "tema": "T10",
+      "variabel_loop": "N10",
+      "tema_sekunder": null
+    },
+    {
+      "no": 98,
+      "isu": "Banjir di Dusun Siloro Ngilu akibat luapan Sungai Tabuk-Tabuk dan kurangnya drainase.",
+      "sumber": "D9",
+      "tema": "T5",
+      "variabel_loop": "N17",
+      "tema_sekunder": null
+    },
+    {
+      "no": 99,
+      "isu": "Saluran pembuangan di Kelurahan Samalewa perlu dilindungi dan ditata.",
+      "sumber": "D9",
+      "tema": "T5",
+      "variabel_loop": "N9",
+      "tema_sekunder": null
+    },
+    {
+      "no": 100,
+      "isu": "Dibutuhkan lokasi pengelolaan sampah di Kelurahan Samalewa.",
+      "sumber": "D9",
+      "tema": "T11",
+      "variabel_loop": "N11",
+      "tema_sekunder": null
+    },
+    {
+      "no": 101,
+      "isu": "Penambangan berpotensi mengancam konservasi air dan sungai bawah tanah.",
+      "sumber": "D9",
+      "tema": "T1",
+      "variabel_loop": "N4",
+      "tema_sekunder": null
+    },
+    {
+      "no": 102,
+      "isu": "Dibutuhkan Ruang Terbuka Hijau di Kelurahan Samalewa.",
+      "sumber": "D9",
+      "tema": "T1",
+      "variabel_loop": "N14",
+      "tema_sekunder": null
+    },
+    {
+      "no": 103,
+      "isu": "Banjir kerap terjadi di Kelurahan Sapanang, terutama sekitar sungai dekat Kantor Kelurahan Sapanang.",
+      "sumber": "D9",
+      "tema": "T5",
+      "variabel_loop": "N17",
+      "tema_sekunder": null
+    },
+    {
+      "no": 104,
+      "isu": "Jalur irigasi terputus akibat pembangunan overpass kereta api.",
+      "sumber": "D9",
+      "tema": "T7",
+      "variabel_loop": "N16",
+      "tema_sekunder": null
+    },
+    {
+      "no": 105,
+      "isu": "Pertanian masih bergantung pada curah hujan.",
+      "sumber": "D9",
+      "tema": "T13",
+      "variabel_loop": "N21",
+      "tema_sekunder": null
+    },
+    {
+      "no": 106,
+      "isu": "Air minum masyarakat masih mengandalkan distribusi air tangki.",
+      "sumber": "D9",
+      "tema": "T7",
+      "variabel_loop": "N5",
+      "tema_sekunder": null
+    },
+    {
+      "no": 107,
+      "isu": "Penampung Air Hujan (PAH) belum berfungsi optimal.",
+      "sumber": "D9",
+      "tema": "T7",
+      "variabel_loop": "N5",
+      "tema_sekunder": null
+    },
+    {
+      "no": 108,
+      "isu": "Permukiman dan pondasi rumah di sempadan sungai mempersempit aliran air.",
+      "sumber": "D9",
+      "tema": "T5",
+      "variabel_loop": "N9",
+      "tema_sekunder": null
+    },
+    {
+      "no": 109,
+      "isu": "Dibutuhkan sumur bor/pengeboran air tanah untuk mendukung kebutuhan air.",
+      "sumber": "D9",
+      "tema": "T7",
+      "variabel_loop": "N16",
+      "tema_sekunder": null
+    },
+    {
+      "no": 110,
+      "isu": "Lahan tidur perlu dimanfaatkan secara produktif dengan tetap memperhatikan lingkungan.",
+      "sumber": "D9",
+      "tema": "T14",
+      "variabel_loop": "N8",
+      "tema_sekunder": null
+    },
+    {
+      "no": 111,
+      "isu": "Konflik masyarakat terkait sengketa lahan.",
+      "sumber": "D9",
+      "tema": "T15",
+      "variabel_loop": "N2",
+      "tema_sekunder": null
+    },
+    {
+      "no": 112,
+      "isu": "Masyarakat kurang mampu di Mangilu memerlukan perhatian.",
+      "sumber": "D9",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 113,
+      "isu": "Situs budaya terancam oleh perkembangan pembangunan.",
+      "sumber": "D9",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 114,
+      "isu": "Kelompok rentan dan isu gender perlu mendapat perhatian dalam RTRW/RDTR.",
+      "sumber": "D9",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 115,
+      "isu": "Kelurahan Sapanang memiliki kelompok rentan 500 orang dalam 1.733 kartu keluarga.",
+      "sumber": "D9",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 116,
+      "isu": "Kelurahan Sapanang memiliki masyarakat kurang mampu 560 orang.",
+      "sumber": "D9",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 117,
+      "isu": "Kelurahan Sapanang memiliki lansia 700 orang.",
+      "sumber": "D9",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 118,
+      "isu": "Kelurahan Sapanang memiliki penyandang disabilitas 20 orang.",
+      "sumber": "D9",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 119,
+      "isu": "Perempuan banyak tercatat sebagai pemegang atau pengambil alih dokumen hak atas tanah.",
+      "sumber": "D9",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 120,
+      "isu": "Terdapat kawasan keramat di Kelurahan Sapanang dan Kampung Lempangeng (Temmu Taung).",
+      "sumber": "D9",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 121,
+      "isu": "Terdapat kawasan penting di Desa Biring Ere, Rumpun Keluarga Besar Borong Untie Saile.",
+      "sumber": "D9",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 122,
+      "isu": "Pembebasan lahan kereta api dan overpass berdampak pada perempuan yang memiliki usaha di sepanjang jalan.",
+      "sumber": "D9",
+      "tema": "T15",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 123,
+      "isu": "Bantuan pemulihan usaha bagi masyarakat terdampak dinilai belum memadai.",
+      "sumber": "D9",
+      "tema": "T15",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 124,
+      "isu": "Bantuan usaha berkelanjutan bagi perempuan terdampak masih diperlukan.",
+      "sumber": "D9",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 125,
+      "isu": "Perlindungan penyandang disabilitas masih perlu diperkuat.",
+      "sumber": "D9",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 126,
+      "isu": "Aksesibilitas fasilitas umum bagi penyandang disabilitas masih perlu ditingkatkan.",
+      "sumber": "D9",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 127,
+      "isu": "Masyarakat kurang mampu, lansia, dan janda berpenghasilan minim memerlukan perlindungan.",
+      "sumber": "D9",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 128,
+      "isu": "Sebagian warga memiliki sertifikat, sedangkan sebagian lainnya menyewa atau menggarap lahan orang lain.",
+      "sumber": "D9",
+      "tema": "T15",
+      "variabel_loop": "N2",
+      "tema_sekunder": null
+    },
+    {
+      "no": 129,
+      "isu": "Sebagian masyarakat mengolah lahan pesisir dan lahan negara.",
+      "sumber": "D9",
+      "tema": "T15",
+      "variabel_loop": "N2",
+      "tema_sekunder": null
+    },
+    {
+      "no": 130,
+      "isu": "Terdapat 1 kampung (±100 KK) yang belum memiliki akses jalan layak.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N5",
+      "tema_sekunder": null
+    },
+    {
+      "no": 131,
+      "isu": "Sekitar 200 KK masih bermukim di kawasan kategori kumuh.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N5",
+      "tema_sekunder": null
+    },
+    {
+      "no": 132,
+      "isu": "Terdapat kelompok masyarakat adat di Desa Sapanang, Desa Biring Ere dan Bori Appaka.",
+      "sumber": "D9",
+      "tema": "T16",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 133,
+      "isu": "Ekspansi kawasan industri perlu diikuti penyediaan lapangan kerja bagi masyarakat.",
+      "sumber": "D9",
+      "tema": "T14",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 134,
+      "isu": "Ketenagakerjaan menjadi perhatian masyarakat di Mangilu.",
+      "sumber": "D9",
+      "tema": "T14",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 135,
+      "isu": "Dibutuhkan kawasan khusus UMKM di Samalewa.",
+      "sumber": "D9",
+      "tema": "T14",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 136,
+      "isu": "Harga pembebasan lahan sawah untuk jalur KAI menimbulkan ketidakpuasan masyarakat.",
+      "sumber": "D9",
+      "tema": "T15",
+      "variabel_loop": "N2",
+      "tema_sekunder": null
+    },
+    {
+      "no": 137,
+      "isu": "Program MT3 di kawasan daerah irigasi Tabo-Tabo masih memerlukan kejelasan solusi.",
+      "sumber": "D9",
+      "tema": "T13",
+      "variabel_loop": "N16",
+      "tema_sekunder": null
+    },
+    {
+      "no": 138,
+      "isu": "Masyarakat pesisir bergantung pada produksi garam, pertambakan, dan budidaya rumput laut.",
+      "sumber": "D9",
+      "tema": "T14",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 139,
+      "isu": "Ketersediaan air masih menjadi kendala bagi produktivitas pertanian.",
+      "sumber": "D9",
+      "tema": "T13",
+      "variabel_loop": "N16",
+      "tema_sekunder": null
+    },
+    {
+      "no": 140,
+      "isu": "Jalan tani masih dibutuhkan untuk mendukung produktivitas sawah.",
+      "sumber": "D9",
+      "tema": "T13",
+      "variabel_loop": "N21",
+      "tema_sekunder": null
+    },
+    {
+      "no": 141,
+      "isu": "Sarana penampung air kelompok tani belum efektif karena lokasi lahan anggota berjauhan.",
+      "sumber": "D9",
+      "tema": "T13",
+      "variabel_loop": "N21",
+      "tema_sekunder": null
+    },
+    {
+      "no": 142,
+      "isu": "Lahan tidur berpotensi dikembangkan menjadi kawasan produktif berwawasan lingkungan.",
+      "sumber": "D9",
+      "tema": "T14",
+      "variabel_loop": "N8",
+      "tema_sekunder": null
+    },
+    {
+      "no": 143,
+      "isu": "Pembebasan lahan kereta api dan overpass memengaruhi kegiatan usaha masyarakat.",
+      "sumber": "D9",
+      "tema": "T15",
+      "variabel_loop": "N22",
+      "tema_sekunder": null
+    },
+    {
+      "no": 144,
+      "isu": "Terdapat indikasi tumpang tindih izin dan perlunya penguatan pengawasan.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 145,
+      "isu": "Terdapat indikasi benturan pemanfaatan area tambang dan area konservasi.",
+      "sumber": "D9",
+      "tema": "T1",
+      "variabel_loop": "N4",
+      "tema_sekunder": null
+    },
+    {
+      "no": 146,
+      "isu": "Perkembangan permukiman di Kelurahan Sama Leta perlu dikendalikan.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N8",
+      "tema_sekunder": null
+    },
+    {
+      "no": 147,
+      "isu": "Dibutuhkan sistem jaringan utilitas di Kelurahan Samalewa.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N5",
+      "tema_sekunder": null
+    },
+    {
+      "no": 148,
+      "isu": "Diperlukan kejelasan zonasi pembangunan kawasan permukiman.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 149,
+      "isu": "Pelaksanaan regulasi penataan ruang masih perlu disederhanakan.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 150,
+      "isu": "Kelompok rentan dan gender perlu dilibatkan dalam penyusunan RTRW/RDTR.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 151,
+      "isu": "Diperlukan FGD lanjutan di tingkat desa/kelurahan.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 152,
+      "isu": "Transparansi informasi kepada masyarakat perlu dilakukan secara berkelanjutan.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 153,
+      "isu": "Penataan kawasan perumahan perlu diperbaiki.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 154,
+      "isu": "Regulasi terkait penataan ruang di tingkat desa perlu diperkuat.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 155,
+      "isu": "RDTR diperlukan untuk mengendalikan perkembangan pemanfaatan ruang.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 156,
+      "isu": "Mekanisme pengaduan masyarakat terhadap dampak pembangunan perlu diperkuat.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N1",
+      "tema_sekunder": null
+    },
+    {
+      "no": 157,
+      "isu": "Kepastian status dan hak atas tanah perlu diperhatikan dalam perubahan pemanfaatan ruang.",
+      "sumber": "D9",
+      "tema": "T15",
+      "variabel_loop": "N2",
+      "tema_sekunder": null
+    },
+    {
+      "no": 158,
+      "isu": "Pengendalian pembangunan di sempadan sungai perlu diperkuat.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N9",
+      "tema_sekunder": null
+    },
+    {
+      "no": 159,
+      "isu": "Penyediaan jalan, air bersih, utilitas, dan prasarana umum perlu diintegrasikan dalam penataan ruang.",
+      "sumber": "D9",
+      "tema": "T17",
+      "variabel_loop": "N5",
+      "tema_sekunder": null
+    },
+    {
+      "no": 160,
+      "isu": "Tekanan terhadap kawasan mangrove.",
+      "sumber": "D10",
+      "tema": "T9",
+      "variabel_loop": "N18",
+      "tema_sekunder": null
+    },
+    {
+      "no": 161,
+      "isu": "Penurunan kualitas air sungai dan perairan pesisir.",
+      "sumber": "D10",
+      "tema": "T8",
+      "variabel_loop": "N15",
+      "tema_sekunder": null
+    },
+    {
+      "no": 162,
+      "isu": "Abrasi pantai.",
+      "sumber": "D10",
+      "tema": "T6",
+      "variabel_loop": "N19",
+      "tema_sekunder": null
+    },
+    {
+      "no": 163,
+      "isu": "Kekeringan dan keterbatasan ketersediaan air.",
+      "sumber": "D10",
+      "tema": "T7",
+      "variabel_loop": "N16",
+      "tema_sekunder": null
+    },
+    {
+      "no": 164,
+      "isu": "Banjir pada beberapa wilayah.",
+      "sumber": "D10",
+      "tema": "T5",
+      "variabel_loop": "N17",
+      "tema_sekunder": null
+    },
+    {
+      "no": 165,
+      "isu": "Gelombang ekstrem dan rob di kawasan pesisir.",
+      "sumber": "D10",
+      "tema": "T6",
+      "variabel_loop": "N19",
+      "tema_sekunder": null
+    },
+    {
+      "no": 166,
+      "isu": "Permasalahan drainase dan limpasan permukaan.",
+      "sumber": "D10",
+      "tema": "T5",
+      "variabel_loop": "N9",
+      "tema_sekunder": null
+    },
+    {
+      "no": 167,
+      "isu": "Tekanan terhadap lahan pertanian/LP2B akibat koridor infrastruktur.",
+      "sumber": "D10",
+      "tema": "T13",
+      "variabel_loop": "N8",
+      "tema_sekunder": null
+    },
+    {
+      "no": 168,
+      "isu": "Risiko gempa bumi.",
+      "sumber": "D10",
+      "tema": "T4",
+      "variabel_loop": "N20",
+      "tema_sekunder": null
+    },
+    {
+      "no": 169,
+      "isu": "Tekanan pemanfaatan ruang pada kawasan karst.",
+      "sumber": "D10",
+      "tema": "T1",
+      "variabel_loop": "N4",
+      "tema_sekunder": null
+    },
+    {
+      "no": 170,
+      "isu": "Aktivitas pertambangan sebagai tekanan pemanfaatan ruang.",
+      "sumber": "D10",
+      "tema": "T14",
+      "variabel_loop": "N4",
+      "tema_sekunder": null
+    },
+    {
+      "no": 171,
+      "isu": "Tekanan terhadap kawasan hutan.",
+      "sumber": "D10",
+      "tema": "T1",
+      "variabel_loop": "N12",
+      "tema_sekunder": null
+    },
+    {
+      "no": 172,
+      "isu": "Emisi partikulat/debu dari aktivitas pertambangan.",
+      "sumber": "D10",
+      "tema": "T10",
+      "variabel_loop": "N10",
+      "tema_sekunder": null
+    },
+    {
+      "no": 173,
+      "isu": "Tekanan perkembangan kawasan terbangun yang tinggi.",
+      "sumber": "D10",
+      "tema": "T17",
+      "variabel_loop": "N8",
+      "tema_sekunder": null
+    }
+  ],
+  "pengelompokan_tema": [
+    {
+      "kode": "T1",
+      "nama": "Kawasan karst dan kawasan lindung",
+      "jumlah_isu": 14,
+      "per_sumber": {
+        "D1": 7,
+        "D2": 1,
+        "D3": 1,
+        "D4": 0,
+        "D5": 0,
+        "D6": 0,
+        "D7": 0,
+        "D8": 0,
+        "D9": 3,
+        "D10": 2
+      },
+      "no_longlist": [
+        1,
+        2,
+        3,
+        8,
+        10,
+        14,
+        15,
+        19,
+        35,
+        101,
+        102,
+        145,
+        169,
+        171
+      ]
+    },
+    {
+      "kode": "T2",
+      "nama": "Keanekaragaman hayati dan habitat",
+      "jumlah_isu": 2,
+      "per_sumber": {
+        "D1": 2,
+        "D2": 0,
+        "D3": 0,
+        "D4": 0,
+        "D5": 0,
+        "D6": 0,
+        "D7": 0,
+        "D8": 0,
+        "D9": 0,
+        "D10": 0
+      },
+      "no_longlist": [
+        9,
+        13
+      ]
+    },
+    {
+      "kode": "T3",
+      "nama": "Perubahan iklim",
+      "jumlah_isu": 2,
+      "per_sumber": {
+        "D1": 1,
+        "D2": 0,
+        "D3": 0,
+        "D4": 0,
+        "D5": 0,
+        "D6": 0,
+        "D7": 0,
+        "D8": 1,
+        "D9": 0,
+        "D10": 0
+      },
+      "no_longlist": [
+        11,
+        88
+      ]
+    },
+    {
+      "kode": "T4",
+      "nama": "Bencana geologi",
+      "jumlah_isu": 3,
+      "per_sumber": {
+        "D1": 2,
+        "D2": 0,
+        "D3": 0,
+        "D4": 0,
+        "D5": 0,
+        "D6": 0,
+        "D7": 0,
+        "D8": 0,
+        "D9": 0,
+        "D10": 1
+      },
+      "no_longlist": [
+        4,
+        5,
+        168
+      ]
+    },
+    {
+      "kode": "T5",
+      "nama": "Bencana hidrometeorologi",
+      "jumlah_isu": 10,
+      "per_sumber": {
+        "D1": 0,
+        "D2": 1,
+        "D3": 0,
+        "D4": 0,
+        "D5": 0,
+        "D6": 1,
+        "D7": 0,
+        "D8": 0,
+        "D9": 6,
+        "D10": 2
+      },
+      "no_longlist": [
+        22,
+        55,
+        93,
+        95,
+        98,
+        99,
+        103,
+        108,
+        164,
+        166
+      ]
+    },
+    {
+      "kode": "T6",
+      "nama": "Abrasi, rob, dan kerentanan pesisir",
+      "jumlah_isu": 2,
+      "per_sumber": {
+        "D1": 0,
+        "D2": 0,
+        "D3": 0,
+        "D4": 0,
+        "D5": 0,
+        "D6": 0,
+        "D7": 0,
+        "D8": 0,
+        "D9": 0,
+        "D10": 2
+      },
+      "no_longlist": [
+        162,
+        165
+      ]
+    },
+    {
+      "kode": "T7",
+      "nama": "Kekeringan, air bersih, dan irigasi",
+      "jumlah_isu": 11,
+      "per_sumber": {
+        "D1": 2,
+        "D2": 0,
+        "D3": 1,
+        "D4": 0,
+        "D5": 0,
+        "D6": 1,
+        "D7": 1,
+        "D8": 0,
+        "D9": 5,
+        "D10": 1
+      },
+      "no_longlist": [
+        6,
+        7,
+        34,
+        58,
+        82,
+        96,
+        104,
+        106,
+        107,
+        109,
+        163
+      ]
+    },
+    {
+      "kode": "T8",
+      "nama": "Pencemaran sungai",
+      "jumlah_isu": 2,
+      "per_sumber": {
+        "D1": 0,
+        "D2": 0,
+        "D3": 0,
+        "D4": 0,
+        "D5": 0,
+        "D6": 0,
+        "D7": 0,
+        "D8": 1,
+        "D9": 0,
+        "D10": 1
+      },
+      "no_longlist": [
+        86,
+        161
+      ]
+    },
+    {
+      "kode": "T9",
+      "nama": "Degradasi dan pencemaran ekosistem pesisir",
+      "jumlah_isu": 5,
+      "per_sumber": {
+        "D1": 1,
+        "D2": 1,
+        "D3": 1,
+        "D4": 0,
+        "D5": 0,
+        "D6": 0,
+        "D7": 0,
+        "D8": 0,
+        "D9": 1,
+        "D10": 1
+      },
+      "no_longlist": [
+        12,
+        21,
+        37,
+        91,
+        160
+      ]
+    },
+    {
+      "kode": "T10",
+      "nama": "Pencemaran udara",
+      "jumlah_isu": 6,
+      "per_sumber": {
+        "D1": 0,
+        "D2": 1,
+        "D3": 0,
+        "D4": 0,
+        "D5": 0,
+        "D6": 0,
+        "D7": 0,
+        "D8": 1,
+        "D9": 3,
+        "D10": 1
+      },
+      "no_longlist": [
+        20,
+        87,
+        92,
+        94,
+        97,
+        172
+      ]
+    },
+    {
+      "kode": "T11",
+      "nama": "Persampahan",
+      "jumlah_isu": 2,
+      "per_sumber": {
+        "D1": 0,
+        "D2": 0,
+        "D3": 0,
+        "D4": 0,
+        "D5": 0,
+        "D6": 0,
+        "D7": 0,
+        "D8": 1,
+        "D9": 1,
+        "D10": 0
+      },
+      "no_longlist": [
+        89,
+        100
+      ]
+    },
+    {
+      "kode": "T12",
+      "nama": "Sanitasi dan air limbah domestik",
+      "jumlah_isu": 4,
+      "per_sumber": {
+        "D1": 0,
+        "D2": 1,
+        "D3": 0,
+        "D4": 0,
+        "D5": 1,
+        "D6": 2,
+        "D7": 0,
+        "D8": 0,
+        "D9": 0,
+        "D10": 0
+      },
+      "no_longlist": [
+        24,
+        46,
+        54,
+        59
+      ]
+    },
+    {
+      "kode": "T13",
+      "nama": "Lahan pertanian, LP2B, dan ketahanan pangan",
+      "jumlah_isu": 10,
+      "per_sumber": {
+        "D1": 2,
+        "D2": 0,
+        "D3": 1,
+        "D4": 0,
+        "D5": 0,
+        "D6": 0,
+        "D7": 0,
+        "D8": 1,
+        "D9": 5,
+        "D10": 1
+      },
+      "no_longlist": [
+        16,
+        18,
+        36,
+        85,
+        105,
+        137,
+        139,
+        140,
+        141,
+        167
+      ]
+    },
+    {
+      "kode": "T14",
+      "nama": "Industri, pertambangan, investasi, dan ekonomi lokal",
+      "jumlah_isu": 17,
+      "per_sumber": {
+        "D1": 1,
+        "D2": 4,
+        "D3": 0,
+        "D4": 0,
+        "D5": 3,
+        "D6": 2,
+        "D7": 0,
+        "D8": 0,
+        "D9": 6,
+        "D10": 1
+      },
+      "no_longlist": [
+        17,
+        28,
+        29,
+        30,
+        31,
+        49,
+        50,
+        51,
+        61,
+        62,
+        110,
+        133,
+        134,
+        135,
+        138,
+        142,
+        170
+      ]
+    },
+    {
+      "kode": "T15",
+      "nama": "Tenurial, pengadaan tanah, dan penghidupan",
+      "jumlah_isu": 19,
+      "per_sumber": {
+        "D1": 0,
+        "D2": 2,
+        "D3": 0,
+        "D4": 0,
+        "D5": 0,
+        "D6": 0,
+        "D7": 9,
+        "D8": 0,
+        "D9": 8,
+        "D10": 0
+      },
+      "no_longlist": [
+        23,
+        25,
+        63,
+        64,
+        71,
+        72,
+        73,
+        78,
+        79,
+        80,
+        81,
+        111,
+        122,
+        123,
+        128,
+        129,
+        136,
+        143,
+        157
+      ]
+    },
+    {
+      "kode": "T16",
+      "nama": "GEDSI, kelompok rentan, sosial budaya, dan warisan budaya",
+      "jumlah_isu": 28,
+      "per_sumber": {
+        "D1": 0,
+        "D2": 1,
+        "D3": 0,
+        "D4": 2,
+        "D5": 2,
+        "D6": 2,
+        "D7": 6,
+        "D8": 0,
+        "D9": 15,
+        "D10": 0
+      },
+      "no_longlist": [
+        26,
+        40,
+        43,
+        44,
+        45,
+        57,
+        60,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        124,
+        125,
+        126,
+        127,
+        132
+      ]
+    },
+    {
+      "kode": "T17",
+      "nama": "Struktur ruang, pelayanan dasar, dan tata kelola",
+      "jumlah_isu": 36,
+      "per_sumber": {
+        "D1": 0,
+        "D2": 3,
+        "D3": 0,
+        "D4": 4,
+        "D5": 4,
+        "D6": 1,
+        "D7": 6,
+        "D8": 1,
+        "D9": 16,
+        "D10": 1
+      },
+      "no_longlist": [
+        27,
+        32,
+        33,
+        38,
+        39,
+        41,
+        42,
+        47,
+        48,
+        52,
+        53,
+        56,
+        74,
+        75,
+        76,
+        77,
+        83,
+        84,
+        90,
+        130,
+        131,
+        144,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        158,
+        159,
+        173
+      ]
+    }
+  ],
+  "causal_loop": {
+    "simpul": [
+      {
+        "id": "N1",
+        "nama": "Tata kelola & pengendalian ruang lemah (zonasi, izin, data, partisipasi)",
+        "nama_singkat": "Tata kelola ruang",
+        "kategori": [
+          "T17"
+        ],
+        "peran_dpsir": "Driver",
+        "uraian": "Zonasi belum jelas, indikasi tumpang tindih izin, pengawasan, batas administrasi, data sosial terpilah, partisipasi dan pengaduan masih lemah."
+      },
+      {
+        "id": "N2",
+        "nama": "Konflik tenurial & ketidakpastian hak atas tanah",
+        "nama_singkat": "Konflik tenurial",
+        "kategori": [
+          "T15"
+        ],
+        "peran_dpsir": "Driver",
+        "uraian": "Tanah belum bersertifikat, penggarap informal, sengketa lahan, pembebasan lahan KA/overpass, permukiman dalam kawasan hutan."
+      },
+      {
+        "id": "N3",
+        "nama": "Ekspansi industri (KIPA), pelabuhan & koridor KA/jalan",
+        "nama_singkat": "Industri, KIPA & koridor",
+        "kategori": [
+          "T14"
+        ],
+        "peran_dpsir": "Driver",
+        "uraian": "Arahan KIPA/kawasan industri, simpul industri maritim–pelabuhan, koridor kereta api dan jalan menekan lahan, air, dan ruang hidup."
+      },
+      {
+        "id": "N4",
+        "nama": "Pertambangan batu gamping/marmer & industri semen",
+        "nama_singkat": "Tambang & semen",
+        "kategori": [
+          "T14",
+          "T1"
+        ],
+        "peran_dpsir": "Driver",
+        "uraian": "WIUP ±214,1 ha; tutupan pertambangan ±457,6 ha; benturan area tambang dengan konservasi dan karst."
+      },
+      {
+        "id": "N5",
+        "nama": "Layanan dasar terbatas (air bersih, sanitasi, jalan, utilitas, permukiman)",
+        "nama_singkat": "Layanan dasar",
+        "kategori": [
+          "T17"
+        ],
+        "peran_dpsir": "Driver",
+        "uraian": "Air minum bergantung tangki, PAH belum optimal, ±100 KK tanpa akses jalan layak, ±200 KK permukiman kumuh, utilitas belum terjaringkan."
+      },
+      {
+        "id": "N6",
+        "nama": "Perubahan iklim & cuaca ekstrem",
+        "nama_singkat": "Cuaca ekstrem",
+        "kategori": [
+          "T3"
+        ],
+        "peran_dpsir": "Driver",
+        "uraian": "Cuaca ekstrem 4.099,5 ha (100% kelas Tinggi); kerentanan iklim 100% kelas sedang."
+      },
+      {
+        "id": "N7",
+        "nama": "Kapasitas adaptasi & kesiapsiagaan rendah",
+        "nama_singkat": "Kapasitas adaptasi",
+        "kategori": [
+          "T3",
+          "T4"
+        ],
+        "peran_dpsir": "Respons",
+        "uraian": "Kapasitas adaptasi/mitigasi rendah (#88, #55). Indeks kapasitas: kekeringan & karhutla 0,309 (Rendah); banjir 0,447; longsor 0,354 (Sedang)."
+      },
+      {
+        "id": "N8",
+        "nama": "Alih fungsi lahan & tekanan terhadap sawah/LP2B",
+        "nama_singkat": "Alih fungsi lahan",
+        "kategori": [
+          "T13"
+        ],
+        "peran_dpsir": "Pressure",
+        "uraian": "Konversi sawah/LP2B (±1.697,9 ha), kawasan terbangun tinggi, permukiman berkembang, lahan tidur belum produktif."
+      },
+      {
+        "id": "N9",
+        "nama": "Bangunan di sempadan sungai & drainase buruk",
+        "nama_singkat": "Sempadan & drainase",
+        "kategori": [
+          "T5"
+        ],
+        "peran_dpsir": "Pressure",
+        "uraian": "Permukiman/pondasi di sempadan sungai menyempitkan aliran; drainase dan saluran pembuangan belum tertata."
+      },
+      {
+        "id": "N10",
+        "nama": "Emisi debu/partikulat & pencemaran udara",
+        "nama_singkat": "Debu & pencemaran udara",
+        "kategori": [
+          "T10"
+        ],
+        "peran_dpsir": "Pressure",
+        "uraian": "Aktivitas Semen Tonasa, tambang, dan transportasi menekan kualitas udara (Sapanang, Mangilu)."
+      },
+      {
+        "id": "N11",
+        "nama": "Sampah, limbah domestik & sanitasi buruk",
+        "nama_singkat": "Sampah & limbah",
+        "kategori": [
+          "T11",
+          "T12"
+        ],
+        "peran_dpsir": "Pressure",
+        "uraian": "Pengelolaan sampah belum optimal, belum ada lokasi pengelolaan (Samalewa), sanitasi pesisir bermasalah."
+      },
+      {
+        "id": "N12",
+        "nama": "Degradasi karst, hutan & tutupan vegetasi alami",
+        "nama_singkat": "Karst, hutan & vegetasi",
+        "kategori": [
+          "T1",
+          "T2"
+        ],
+        "peran_dpsir": "State",
+        "uraian": "KBAK ±2.000,2 ha; vegetasi karst ±1.297,8 ha; tekanan terhadap hutan dan habitat; JLH habitat SR–rendah 68,5%."
+      },
+      {
+        "id": "N13",
+        "nama": "Lahan kritis, erosi & sedimentasi",
+        "nama_singkat": "Lahan kritis & erosi",
+        "kategori": [
+          "T1"
+        ],
+        "peran_dpsir": "State",
+        "uraian": "Lahan kritis 435,4 ha di Tabo-Tabo (99,2% sangat kritis)."
+      },
+      {
+        "id": "N14",
+        "nama": "Penurunan jasa ekosistem (air, karbon) & D3TLH terlampaui",
+        "nama_singkat": "Jasa ekosistem & D3TLH",
+        "kategori": [
+          "T1",
+          "T7"
+        ],
+        "peran_dpsir": "State",
+        "uraian": "D3TLH terlampaui 1.178,8 ha (13,1%); JLH penyedia air SR–sedang 98,9%; pengatur air SR–rendah 52,7%; penyerap karbon SR–rendah 82,0%."
+      },
+      {
+        "id": "N15",
+        "nama": "Penurunan kualitas air sungai & perairan pesisir",
+        "nama_singkat": "Kualitas air",
+        "kategori": [
+          "T8"
+        ],
+        "peran_dpsir": "State",
+        "uraian": "Kualitas dan kuantitas air sungai/air tanah menurun (#86, #161)."
+      },
+      {
+        "id": "N16",
+        "nama": "Kekeringan & kelangkaan air bersih/irigasi",
+        "nama_singkat": "Kekeringan & air",
+        "kategori": [
+          "T7"
+        ],
+        "peran_dpsir": "State",
+        "uraian": "Kekeringan 5.349,5 ha (bahaya sedang), risiko sedang 5.341,8 ha; kapasitas 0,309 (Rendah). Air tangki, irigasi terputus, pertanian tadah hujan."
+      },
+      {
+        "id": "N17",
+        "nama": "Banjir & genangan",
+        "nama_singkat": "Banjir",
+        "kategori": [
+          "T5"
+        ],
+        "peran_dpsir": "Impact",
+        "uraian": "Banjir 2.932,3 ha (1.323,3 ha Tinggi: Bulu Cindea, Bori Appaka); bandang 297,3 ha (Biring Ere, Mangilu, Sapanang); luapan sungai Tabuk-Tabuk & Bendungan Tabo-Tabo."
+      },
+      {
+        "id": "N18",
+        "nama": "Degradasi mangrove & ekosistem pesisir",
+        "nama_singkat": "Mangrove & pesisir",
+        "kategori": [
+          "T9",
+          "T2"
+        ],
+        "peran_dpsir": "State",
+        "uraian": "Mangrove ±51,1 ha (Bori Appaka, Bulu Cindea); tambak 1.324,9 ha; KBA Kapoposang–Pangkep–Bulurokeng 24,8 ha."
+      },
+      {
+        "id": "N19",
+        "nama": "Abrasi, rob & gelombang ekstrem",
+        "nama_singkat": "Abrasi & rob",
+        "kategori": [
+          "T6"
+        ],
+        "peran_dpsir": "Impact",
+        "uraian": "Gelombang ekstrem & abrasi 110,4 ha (Bulu Cindea 85,4 ha; Bori Appaka 25,0 ha); tsunami 1.586,6 ha (rendah)."
+      },
+      {
+        "id": "N20",
+        "nama": "Bencana geologi (gerakan tanah, longsor, gempabumi)",
+        "nama_singkat": "Bencana geologi",
+        "kategori": [
+          "T4"
+        ],
+        "peran_dpsir": "Impact",
+        "uraian": "Longsor 1.566,7 ha (754,2 ha Tinggi: Mangilu, Samalewa, Biring Ere); gerakan tanah menengah 466,4 ha; KRB gempabumi menengah 2.950,1 ha."
+      },
+      {
+        "id": "N21",
+        "nama": "Penurunan produktivitas pertanian & daya dukung pangan",
+        "nama_singkat": "Daya dukung pangan",
+        "kategori": [
+          "T13"
+        ],
+        "peran_dpsir": "Impact",
+        "uraian": "Sawah 2.480,9 ha (27,7%); produksi pangan melandai; air, jalan tani, dan penampung air belum memadai."
+      },
+      {
+        "id": "N22",
+        "nama": "Hilangnya penghidupan, kerentanan sosial & tekanan budaya",
+        "nama_singkat": "Penghidupan & kerentanan",
+        "kategori": [
+          "T15",
+          "T16"
+        ],
+        "peran_dpsir": "Impact",
+        "uraian": "Petani, penggarap, pelaku usaha kecil, nelayan/pembudidaya, perempuan, lansia, disabilitas, rumah tangga miskin; situs budaya dan kawasan adat."
+      },
+      {
+        "id": "N23",
+        "nama": "Gangguan kesehatan masyarakat (ISPA, penyakit berbasis lingkungan)",
+        "nama_singkat": "Kesehatan masyarakat",
+        "kategori": [
+          "T10",
+          "T12"
+        ],
+        "peran_dpsir": "Impact",
+        "uraian": "Paparan debu/emisi, sanitasi buruk, penyakit vektor, air bersih terbatas."
+      }
+    ],
+    "hubungan": [
+      {
+        "dari": "N1",
+        "ke": "N8",
+        "skor": 3,
+        "mekanisme": "Zonasi tidak jelas, izin tumpang tindih, dan pengendalian lemah membuka konversi lahan produktif",
+        "status_bukti": "Eksplisit",
+        "rujukan": "#144, #146, #148, #173, #85",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N1",
+        "ke": "N9",
+        "skor": 3,
+        "mekanisme": "Pengendalian sempadan sungai dan drainase lemah membiarkan bangunan di bantaran",
+        "status_bukti": "Eksplisit",
+        "rujukan": "#108, #158, #166",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N1",
+        "ke": "N2",
+        "skor": 2,
+        "mekanisme": "Data hak, batas administrasi, dan zonasi tidak pasti memicu sengketa",
+        "status_bukti": "Eksplisit sebagian",
+        "rujukan": "#32, #77, #157",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N1",
+        "ke": "N7",
+        "skor": 2,
+        "mekanisme": "Informasi risiko, partisipasi, dan koordinasi belum terintegrasi ke penataan ruang",
+        "status_bukti": "Inferensi",
+        "rujukan": "#83, #152, #76, #55",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N2",
+        "ke": "N8",
+        "skor": 2,
+        "mekanisme": "Hak tidak pasti dan sengketa mendorong pelepasan/konversi lahan",
+        "status_bukti": "Inferensi",
+        "rujukan": "#25, #111, #128, #129",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N2",
+        "ke": "N22",
+        "skor": 3,
+        "mekanisme": "Pembebasan lahan KA/overpass menghilangkan aset dan usaha; kompensasi dinilai belum adil",
+        "status_bukti": "Eksplisit",
+        "rujukan": "#63, #122, #136, #143",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N3",
+        "ke": "N8",
+        "skor": 3,
+        "mekanisme": "KIPA, pelabuhan, koridor KA dan jalan menggantikan sawah/LP2B",
+        "status_bukti": "Eksplisit sebagian",
+        "rujukan": "#27, #28, #30, #167",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N3",
+        "ke": "N10",
+        "skor": 2,
+        "mekanisme": "Aktivitas industri dan angkutan menambah emisi debu/partikulat",
+        "status_bukti": "Eksplisit",
+        "rujukan": "#94, #20",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N3",
+        "ke": "N11",
+        "skor": 2,
+        "mekanisme": "Beban limbah dan sampah dari industri dan permukiman pekerja",
+        "status_bukti": "Inferensi",
+        "rujukan": "#28, #50, #89",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N3",
+        "ke": "N16",
+        "skor": 2,
+        "mekanisme": "Jalur irigasi terputus oleh overpass/koridor KA",
+        "status_bukti": "Eksplisit",
+        "rujukan": "#104, #81",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N4",
+        "ke": "N12",
+        "skor": 3,
+        "mekanisme": "Penambangan batu gamping/marmer merusak bentang karst dan vegetasi",
+        "status_bukti": "Eksplisit + data tabulasi",
+        "rujukan": "#145, #169, #170, #17; WIUP 214,1 ha; KBAK 2.000,2 ha",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N4",
+        "ke": "N10",
+        "skor": 3,
+        "mekanisme": "Debu tambang dan pabrik semen",
+        "status_bukti": "Eksplisit",
+        "rujukan": "#20, #97, #172",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N4",
+        "ke": "N14",
+        "skor": 2,
+        "mekanisme": "Gangguan sungai bawah tanah dan konservasi air karst",
+        "status_bukti": "Eksplisit sebagian",
+        "rujukan": "#101",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N4",
+        "ke": "N20",
+        "skor": 2,
+        "mekanisme": "Penggalian lereng memicu gerakan tanah/longsor",
+        "status_bukti": "Inferensi",
+        "rujukan": "Longsor Tinggi 754,2 ha (Mangilu 358,6 ha)",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N5",
+        "ke": "N11",
+        "skor": 3,
+        "mekanisme": "Layanan persampahan dan sanitasi terbatas memicu pembuangan/pembakaran sampah",
+        "status_bukti": "Eksplisit",
+        "rujukan": "#100, #54, #24, #89",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N5",
+        "ke": "N16",
+        "skor": 2,
+        "mekanisme": "Air bersih bergantung tangki/PAH belum optimal; kebutuhan air tidak terlayani",
+        "status_bukti": "Eksplisit",
+        "rujukan": "#106, #107, #109, #58, #96",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N5",
+        "ke": "N23",
+        "skor": 2,
+        "mekanisme": "Air bersih dan sanitasi layak belum terpenuhi meningkatkan penyakit",
+        "status_bukti": "Eksplisit sebagian",
+        "rujukan": "#24, #46, #59",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N6",
+        "ke": "N16",
+        "skor": 3,
+        "mekanisme": "Cuaca ekstrem dan musim kering memperparah kekeringan",
+        "status_bukti": "KRB",
+        "rujukan": "Kekeringan 5.349,5 ha; kapasitas 0,309 (Rendah)",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N6",
+        "ke": "N17",
+        "skor": 3,
+        "mekanisme": "Hujan ekstrem memicu banjir dan bandang",
+        "status_bukti": "KRB + longlist",
+        "rujukan": "Cuaca ekstrem 4.099,5 ha (100% Tinggi); #164",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N6",
+        "ke": "N19",
+        "skor": 2,
+        "mekanisme": "Iklim ekstrem memperkuat gelombang ekstrem dan rob",
+        "status_bukti": "Inferensi",
+        "rujukan": "#165",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N6",
+        "ke": "N20",
+        "skor": 1,
+        "mekanisme": "Hujan lebat memicu gerakan tanah",
+        "status_bukti": "Inferensi",
+        "rujukan": "–",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N7",
+        "ke": "N17",
+        "skor": 2,
+        "mekanisme": "Kapasitas rendah memperparah dampak banjir",
+        "status_bukti": "Inferensi",
+        "rujukan": "#55, #88; kapasitas banjir 0,447",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N7",
+        "ke": "N16",
+        "skor": 2,
+        "mekanisme": "Kapasitas kekeringan terendah (0,309) membatasi adaptasi",
+        "status_bukti": "KRB",
+        "rujukan": "Indeks kapasitas kekeringan 0,309",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N7",
+        "ke": "N20",
+        "skor": 1,
+        "mekanisme": "Kapasitas longsor/gempa baru kelas sedang",
+        "status_bukti": "KRB",
+        "rujukan": "Kapasitas longsor 0,354; gempabumi 0,352",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N8",
+        "ke": "N14",
+        "skor": 3,
+        "mekanisme": "Hilangnya vegetasi dan lahan terbuka/terbangun menurunkan resapan dan jasa ekosistem",
+        "status_bukti": "Eksplisit sebagian",
+        "rujukan": "#35, #85, #173, #8",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N8",
+        "ke": "N21",
+        "skor": 3,
+        "mekanisme": "Konversi sawah mengurangi lahan pangan",
+        "status_bukti": "Eksplisit",
+        "rujukan": "#16, #85, #167, #36",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N8",
+        "ke": "N17",
+        "skor": 2,
+        "mekanisme": "Lahan terbangun memperbesar limpasan permukaan",
+        "status_bukti": "Eksplisit sebagian",
+        "rujukan": "#166, #173",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N9",
+        "ke": "N17",
+        "skor": 3,
+        "mekanisme": "Penyempitan aliran sungai dan drainase buruk memicu luapan",
+        "status_bukti": "Eksplisit",
+        "rujukan": "#93, #98, #103, #108",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N10",
+        "ke": "N23",
+        "skor": 3,
+        "mekanisme": "Debu dan emisi meningkatkan gangguan pernapasan",
+        "status_bukti": "Eksplisit sebagian",
+        "rujukan": "#20, #97, #94",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N11",
+        "ke": "N15",
+        "skor": 3,
+        "mekanisme": "Sampah, lindi, dan limbah domestik mencemari sungai dan perairan",
+        "status_bukti": "Eksplisit sebagian",
+        "rujukan": "#86, #89, #161",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N11",
+        "ke": "N17",
+        "skor": 2,
+        "mekanisme": "Sampah menyumbat drainase dan saluran pembuangan",
+        "status_bukti": "Inferensi",
+        "rujukan": "#99, #166",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N11",
+        "ke": "N23",
+        "skor": 2,
+        "mekanisme": "Sampah dan sanitasi buruk memicu penyakit berbasis lingkungan/vektor",
+        "status_bukti": "Eksplisit sebagian",
+        "rujukan": "#24, #54, #59",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N12",
+        "ke": "N13",
+        "skor": 3,
+        "mekanisme": "Hilangnya vegetasi karst/hutan menyebabkan lahan kritis dan erosi",
+        "status_bukti": "Eksplisit + data tabulasi",
+        "rujukan": "#3, #35, #171; lahan kritis 435,4 ha",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N12",
+        "ke": "N14",
+        "skor": 3,
+        "mekanisme": "Penurunan tutupan karst/hutan menurunkan jasa air, karbon, dan habitat",
+        "status_bukti": "Eksplisit",
+        "rujukan": "#2, #9, #34, #8",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N12",
+        "ke": "N20",
+        "skor": 2,
+        "mekanisme": "Hilangnya tutupan memperbesar kerawanan gerakan tanah",
+        "status_bukti": "Inferensi",
+        "rujukan": "#5",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N13",
+        "ke": "N17",
+        "skor": 2,
+        "mekanisme": "Sedimentasi dan erosi hulu meningkatkan banjir",
+        "status_bukti": "Inferensi",
+        "rujukan": "#3, #98",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N13",
+        "ke": "N14",
+        "skor": 2,
+        "mekanisme": "Lahan kritis menurunkan resapan dan penyedia air",
+        "status_bukti": "Inferensi",
+        "rujukan": "#3, #34",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N13",
+        "ke": "N21",
+        "skor": 2,
+        "mekanisme": "Lahan kritis menurunkan produktivitas lahan",
+        "status_bukti": "Inferensi",
+        "rujukan": "#3",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N14",
+        "ke": "N16",
+        "skor": 3,
+        "mekanisme": "Jasa penyedia/pengatur air rendah menurunkan ketersediaan air",
+        "status_bukti": "Eksplisit + data tabulasi",
+        "rujukan": "#6, #7, #34, #96; penyedia air SR–sedang 98,9%",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N14",
+        "ke": "N17",
+        "skor": 2,
+        "mekanisme": "Pengatur air rendah (52,7%) memperbesar limpasan",
+        "status_bukti": "Eksplisit sebagian",
+        "rujukan": "#7, #34",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N14",
+        "ke": "N21",
+        "skor": 2,
+        "mekanisme": "Penurunan jasa pengairan dan penyedia pangan menekan produksi",
+        "status_bukti": "Inferensi",
+        "rujukan": "#139, #36",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N15",
+        "ke": "N18",
+        "skor": 2,
+        "mekanisme": "Pencemaran terbawa ke pesisir merusak mangrove",
+        "status_bukti": "Eksplisit sebagian",
+        "rujukan": "#161, #160",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N15",
+        "ke": "N21",
+        "skor": 2,
+        "mekanisme": "Kualitas air irigasi menurun menekan produktivitas",
+        "status_bukti": "Inferensi",
+        "rujukan": "#86",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N15",
+        "ke": "N23",
+        "skor": 2,
+        "mekanisme": "Kualitas air bersih menurun mengganggu kesehatan",
+        "status_bukti": "Inferensi",
+        "rujukan": "#86",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N16",
+        "ke": "N21",
+        "skor": 3,
+        "mekanisme": "Kekeringan, tadah hujan, dan irigasi terputus menurunkan produksi",
+        "status_bukti": "Eksplisit",
+        "rujukan": "#105, #137, #139, #82",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N16",
+        "ke": "N22",
+        "skor": 2,
+        "mekanisme": "Kelangkaan air menambah biaya hidup dan menekan usaha",
+        "status_bukti": "Eksplisit sebagian",
+        "rujukan": "#106, #109",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N17",
+        "ke": "N21",
+        "skor": 3,
+        "mekanisme": "Banjir merusak sawah dan lahan produktif",
+        "status_bukti": "Eksplisit sebagian",
+        "rujukan": "#93, #95, #98; banjir 2.932,3 ha",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N17",
+        "ke": "N22",
+        "skor": 2,
+        "mekanisme": "Banjir merusak permukiman, usaha, dan memutus akses",
+        "status_bukti": "Eksplisit",
+        "rujukan": "#22, #95, #103",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N17",
+        "ke": "N13",
+        "skor": 2,
+        "mekanisme": "Banjir memperparah erosi dan sedimentasi (umpan balik)",
+        "status_bukti": "Inferensi",
+        "rujukan": "–",
+        "umpan_balik": true
+      },
+      {
+        "dari": "N18",
+        "ke": "N19",
+        "skor": 3,
+        "mekanisme": "Hilangnya mangrove menghilangkan pelindung pantai",
+        "status_bukti": "Eksplisit",
+        "rujukan": "#12, #91, #160, #162",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N19",
+        "ke": "N18",
+        "skor": 2,
+        "mekanisme": "Abrasi dan gelombang merusak mangrove dan habitat (umpan balik)",
+        "status_bukti": "Inferensi",
+        "rujukan": "#162",
+        "umpan_balik": true
+      },
+      {
+        "dari": "N18",
+        "ke": "N22",
+        "skor": 3,
+        "mekanisme": "Degradasi pesisir menurunkan produksi tambak, garam, rumput laut, dan perikanan",
+        "status_bukti": "Eksplisit sebagian",
+        "rujukan": "#37, #138, #31",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N19",
+        "ke": "N22",
+        "skor": 2,
+        "mekanisme": "Abrasi, rob, dan gelombang mengganggu tambak dan permukiman pesisir",
+        "status_bukti": "Eksplisit sebagian",
+        "rujukan": "#138, #165",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N19",
+        "ke": "N16",
+        "skor": 1,
+        "mekanisme": "Intrusi air asin menurunkan kualitas air tanah pesisir",
+        "status_bukti": "Inferensi (data intrusi belum ada)",
+        "rujukan": "–",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N20",
+        "ke": "N22",
+        "skor": 2,
+        "mekanisme": "Longsor/gempa merusak aset dan memutus akses",
+        "status_bukti": "Inferensi",
+        "rujukan": "Longsor Tinggi 754,2 ha",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N21",
+        "ke": "N22",
+        "skor": 3,
+        "mekanisme": "Produksi pangan turun menurunkan pendapatan dan penghidupan",
+        "status_bukti": "Eksplisit",
+        "rujukan": "#36, #140, #141",
+        "umpan_balik": false
+      },
+      {
+        "dari": "N22",
+        "ke": "N8",
+        "skor": 2,
+        "mekanisme": "Tekanan ekonomi mendorong penjualan/konversi lahan (umpan balik)",
+        "status_bukti": "Inferensi",
+        "rujukan": "–",
+        "umpan_balik": true
+      },
+      {
+        "dari": "N22",
+        "ke": "N2",
+        "skor": 1,
+        "mekanisme": "Kemiskinan dan kerentanan memicu sengketa lahan (umpan balik)",
+        "status_bukti": "Inferensi",
+        "rujukan": "#111",
+        "umpan_balik": true
+      },
+      {
+        "dari": "N22",
+        "ke": "N7",
+        "skor": 2,
+        "mekanisme": "Kerentanan sosial menurunkan kapasitas adaptasi (umpan balik)",
+        "status_bukti": "Inferensi",
+        "rujukan": "#69, #114, #125",
+        "umpan_balik": true
+      },
+      {
+        "dari": "N23",
+        "ke": "N22",
+        "skor": 2,
+        "mekanisme": "Beban kesehatan menurunkan produktivitas dan pendapatan (umpan balik)",
+        "status_bukti": "Inferensi",
+        "rujukan": "#45, #57",
+        "umpan_balik": true
+      }
+    ],
+    "loop_inti": [
+      {
+        "id": "R1",
+        "isu": "S3",
+        "tipe": "Reinforcing",
+        "nama": "Alih fungsi lahan–pangan–penghidupan",
+        "node_ids": [
+          "N8",
+          "N21",
+          "N22",
+          "N8"
+        ],
+        "urutan": [
+          "Alih fungsi lahan",
+          "Daya dukung pangan",
+          "Penghidupan & kerentanan",
+          "Alih fungsi lahan"
+        ],
+        "skor_minimum": 2,
+        "skor_total": 8,
+        "narasi": "Konversi sawah/LP2B menurunkan daya dukung pangan; pendapatan turun; tekanan ekonomi mendorong penjualan atau konversi lahan berikutnya."
+      },
+      {
+        "id": "R2",
+        "isu": "S1, S3",
+        "tipe": "Reinforcing",
+        "nama": "Alih fungsi–jasa air–kekeringan–pangan–penghidupan",
+        "node_ids": [
+          "N8",
+          "N14",
+          "N16",
+          "N21",
+          "N22",
+          "N8"
+        ],
+        "urutan": [
+          "Alih fungsi lahan",
+          "Jasa ekosistem & D3TLH",
+          "Kekeringan & air",
+          "Daya dukung pangan",
+          "Penghidupan & kerentanan",
+          "Alih fungsi lahan"
+        ],
+        "skor_minimum": 2,
+        "skor_total": 14,
+        "narasi": "Hilangnya tutupan dan lahan terbuka menurunkan jasa ekosistem air; kekeringan menurunkan produksi pangan; penghidupan yang menurun memperkuat konversi lahan."
+      },
+      {
+        "id": "R3",
+        "isu": "S2, S1",
+        "tipe": "Reinforcing",
+        "nama": "Jasa ekosistem–banjir–lahan kritis",
+        "node_ids": [
+          "N14",
+          "N17",
+          "N13",
+          "N14"
+        ],
+        "urutan": [
+          "Jasa ekosistem & D3TLH",
+          "Banjir",
+          "Lahan kritis & erosi",
+          "Jasa ekosistem & D3TLH"
+        ],
+        "skor_minimum": 2,
+        "skor_total": 6,
+        "narasi": "Jasa pengatur air rendah memperbesar banjir; banjir mempercepat erosi dan lahan kritis; lahan kritis semakin menurunkan resapan dan jasa air."
+      },
+      {
+        "id": "R4",
+        "isu": "S1",
+        "tipe": "Reinforcing",
+        "nama": "Kapasitas adaptasi–banjir–kerentanan sosial",
+        "node_ids": [
+          "N7",
+          "N17",
+          "N22",
+          "N7"
+        ],
+        "urutan": [
+          "Kapasitas adaptasi",
+          "Banjir",
+          "Penghidupan & kerentanan",
+          "Kapasitas adaptasi"
+        ],
+        "skor_minimum": 2,
+        "skor_total": 6,
+        "narasi": "Kapasitas rendah memperparah dampak banjir; kerentanan sosial dan kehilangan penghidupan semakin menurunkan kapasitas adaptasi."
+      },
+      {
+        "id": "R5",
+        "isu": "S4",
+        "tipe": "Reinforcing",
+        "nama": "Mangrove–abrasi",
+        "node_ids": [
+          "N18",
+          "N19",
+          "N18"
+        ],
+        "urutan": [
+          "Mangrove & pesisir",
+          "Abrasi & rob",
+          "Mangrove & pesisir"
+        ],
+        "skor_minimum": 2,
+        "skor_total": 5,
+        "narasi": "Degradasi mangrove menghilangkan pelindung pantai; abrasi dan gelombang kembali merusak mangrove dan habitat pesisir."
+      }
+    ],
+    "isu_paling_strategis": [
+      {
+        "id": "S1",
+        "nama": "Kerentanan sumber daya air dan bencana akibat perubahan iklim",
+        "simpul": [
+          "N6",
+          "N7",
+          "N9",
+          "N16",
+          "N17",
+          "N20"
+        ],
+        "kategori": [
+          "T3",
+          "T4",
+          "T5",
+          "T7"
+        ],
+        "bukti_utama": "Cuaca ekstrem 4.099,5 ha (100% Tinggi); banjir 2.932,3 ha (1.323,3 ha Tinggi); multibahaya Tinggi 4.810,4 ha (±90%); kekeringan 5.349,5 ha, kapasitas 0,309 (Rendah)",
+        "no_isu_inti_csv": 2
+      },
+      {
+        "id": "S2",
+        "nama": "Penurunan kualitas lingkungan dan fungsi jasa ekosistem",
+        "simpul": [
+          "N10",
+          "N11",
+          "N12",
+          "N13",
+          "N14",
+          "N15",
+          "N23"
+        ],
+        "kategori": [
+          "T1",
+          "T2",
+          "T7",
+          "T8",
+          "T10",
+          "T11",
+          "T12"
+        ],
+        "bukti_utama": "D3TLH terlampaui 1.178,8 ha (13,1%); lahan kritis Tabo-Tabo 435,4 ha (99,2% sangat kritis); JLH habitat SR–rendah 68,5%; tutupan pertambangan 457,6 ha; risiko karhutla Tinggi 2.604,2 ha",
+        "no_isu_inti_csv": 3
+      },
+      {
+        "id": "S3",
+        "nama": "Kerentanan lahan pertanian dan jasa penyedia pangan",
+        "simpul": [
+          "N8",
+          "N21",
+          "N22"
+        ],
+        "kategori": [
+          "T13",
+          "T15",
+          "T16"
+        ],
+        "bukti_utama": "Sawah 2.480,9 ha (27,7%); LP2B 1.697,9 ha; JLH penyedia pangan Tinggi–Sangat Tinggi 49,7%; tekanan KIPA/koridor KA/jalan; irigasi terputus overpass",
+        "no_isu_inti_csv": 4
+      },
+      {
+        "id": "S4",
+        "nama": "Degradasi dan kerentanan ekosistem pesisir",
+        "simpul": [
+          "N18",
+          "N19"
+        ],
+        "kategori": [
+          "T2",
+          "T6",
+          "T9"
+        ],
+        "bukti_utama": "Mangrove ±51,1 ha (91,9% lebat); GEA 110,4 ha (Bulu Cindea, Bori Appaka); tsunami 1.586,6 ha (rendah); tambak 1.324,9 ha; KBA 24,8 ha",
+        "no_isu_inti_csv": 5
+      }
+    ],
+    "faktor_penyebab": {
+      "simpul": [
+        "N1",
+        "N2",
+        "N3",
+        "N4",
+        "N5"
+      ],
+      "catatan": "Akar masalah; ditangani lewat KRP RDTR, bukan isu strategis."
+    }
+  },
+  "rca_cascading": {
+    "metode": "BFS pada hubungan skor ≥ 2 (tanpa hubungan umpan balik). Akar masalah = simpul faktor penyebab yang mencapai isu (jalur terpendek); dampak berantai = simpul di luar isu yang dicapai pada langkah ke-1, ke-2, ke-3 dari simpul anggota isu.",
+    "isu": [
+      {
+        "id": "S1",
+        "isu": "Kerentanan sumber daya air dan bencana akibat perubahan iklim",
+        "akar_masalah": [
+          {
+            "simpul": "N1",
+            "nama": "Tata kelola & pengendalian ruang lemah (zonasi, izin, data, partisipasi)",
+            "jalur": [
+              "Tata kelola ruang",
+              "Sempadan & drainase"
+            ]
+          },
+          {
+            "simpul": "N2",
+            "nama": "Konflik tenurial & ketidakpastian hak atas tanah",
+            "jalur": [
+              "Konflik tenurial",
+              "Alih fungsi lahan",
+              "Banjir"
+            ]
+          },
+          {
+            "simpul": "N3",
+            "nama": "Ekspansi industri (KIPA), pelabuhan & koridor KA/jalan",
+            "jalur": [
+              "Industri, KIPA & koridor",
+              "Kekeringan & air"
+            ]
+          },
+          {
+            "simpul": "N4",
+            "nama": "Pertambangan batu gamping/marmer & industri semen",
+            "jalur": [
+              "Tambang & semen",
+              "Bencana geologi"
+            ]
+          },
+          {
+            "simpul": "N5",
+            "nama": "Layanan dasar terbatas (air bersih, sanitasi, jalan, utilitas, permukiman)",
+            "jalur": [
+              "Layanan dasar",
+              "Kekeringan & air"
+            ]
+          }
+        ],
+        "penyebab_langsung": [
+          {
+            "simpul": "N1",
+            "nama": "Tata kelola ruang"
+          },
+          {
+            "simpul": "N3",
+            "nama": "Industri, KIPA & koridor"
+          },
+          {
+            "simpul": "N4",
+            "nama": "Tambang & semen"
+          },
+          {
+            "simpul": "N5",
+            "nama": "Layanan dasar"
+          },
+          {
+            "simpul": "N8",
+            "nama": "Alih fungsi lahan"
+          },
+          {
+            "simpul": "N11",
+            "nama": "Sampah & limbah"
+          },
+          {
+            "simpul": "N12",
+            "nama": "Karst, hutan & vegetasi"
+          },
+          {
+            "simpul": "N13",
+            "nama": "Lahan kritis & erosi"
+          },
+          {
+            "simpul": "N14",
+            "nama": "Jasa ekosistem & D3TLH"
+          }
+        ],
+        "dampak_berantai": {
+          "orde_1": [
+            {
+              "simpul": "N22",
+              "nama": "Penghidupan & kerentanan"
+            },
+            {
+              "simpul": "N19",
+              "nama": "Abrasi & rob"
+            },
+            {
+              "simpul": "N21",
+              "nama": "Daya dukung pangan"
+            }
+          ],
+          "orde_2": [],
+          "orde_3": []
+        },
+        "narasi": "Akar masalah: pengendalian sempadan/drainase yang lemah, alih fungsi lahan dan tambang/industri yang menurunkan jasa air, serta kapasitas adaptasi rendah. Cuaca ekstrem memicu banjir dan kekeringan, lalu merambat ke sawah, penghidupan, dan kesehatan."
+      },
+      {
+        "id": "S2",
+        "isu": "Penurunan kualitas lingkungan dan fungsi jasa ekosistem",
+        "akar_masalah": [
+          {
+            "simpul": "N1",
+            "nama": "Tata kelola & pengendalian ruang lemah (zonasi, izin, data, partisipasi)",
+            "jalur": [
+              "Tata kelola ruang",
+              "Alih fungsi lahan",
+              "Jasa ekosistem & D3TLH"
+            ]
+          },
+          {
+            "simpul": "N2",
+            "nama": "Konflik tenurial & ketidakpastian hak atas tanah",
+            "jalur": [
+              "Konflik tenurial",
+              "Alih fungsi lahan",
+              "Jasa ekosistem & D3TLH"
+            ]
+          },
+          {
+            "simpul": "N3",
+            "nama": "Ekspansi industri (KIPA), pelabuhan & koridor KA/jalan",
+            "jalur": [
+              "Industri, KIPA & koridor",
+              "Debu & pencemaran udara"
+            ]
+          },
+          {
+            "simpul": "N4",
+            "nama": "Pertambangan batu gamping/marmer & industri semen",
+            "jalur": [
+              "Tambang & semen",
+              "Karst, hutan & vegetasi"
+            ]
+          },
+          {
+            "simpul": "N5",
+            "nama": "Layanan dasar terbatas (air bersih, sanitasi, jalan, utilitas, permukiman)",
+            "jalur": [
+              "Layanan dasar",
+              "Sampah & limbah"
+            ]
+          }
+        ],
+        "penyebab_langsung": [
+          {
+            "simpul": "N3",
+            "nama": "Industri, KIPA & koridor"
+          },
+          {
+            "simpul": "N4",
+            "nama": "Tambang & semen"
+          },
+          {
+            "simpul": "N5",
+            "nama": "Layanan dasar"
+          },
+          {
+            "simpul": "N8",
+            "nama": "Alih fungsi lahan"
+          }
+        ],
+        "dampak_berantai": {
+          "orde_1": [
+            {
+              "simpul": "N17",
+              "nama": "Banjir"
+            },
+            {
+              "simpul": "N18",
+              "nama": "Mangrove & pesisir"
+            },
+            {
+              "simpul": "N21",
+              "nama": "Daya dukung pangan"
+            },
+            {
+              "simpul": "N16",
+              "nama": "Kekeringan & air"
+            },
+            {
+              "simpul": "N20",
+              "nama": "Bencana geologi"
+            }
+          ],
+          "orde_2": [
+            {
+              "simpul": "N22",
+              "nama": "Penghidupan & kerentanan"
+            },
+            {
+              "simpul": "N19",
+              "nama": "Abrasi & rob"
+            }
+          ],
+          "orde_3": []
+        },
+        "narasi": "Akar masalah: tambang batu gamping/semen, ekspansi industri, dan layanan sampah-sanitasi terbatas. Karst dan vegetasi rusak → lahan kritis → jasa ekosistem air turun → banjir/kekeringan; debu → gangguan kesehatan; limbah → kualitas air turun → pesisir."
+      },
+      {
+        "id": "S3",
+        "isu": "Kerentanan lahan pertanian dan jasa penyedia pangan",
+        "akar_masalah": [
+          {
+            "simpul": "N1",
+            "nama": "Tata kelola & pengendalian ruang lemah (zonasi, izin, data, partisipasi)",
+            "jalur": [
+              "Tata kelola ruang",
+              "Alih fungsi lahan"
+            ]
+          },
+          {
+            "simpul": "N2",
+            "nama": "Konflik tenurial & ketidakpastian hak atas tanah",
+            "jalur": [
+              "Konflik tenurial",
+              "Alih fungsi lahan"
+            ]
+          },
+          {
+            "simpul": "N3",
+            "nama": "Ekspansi industri (KIPA), pelabuhan & koridor KA/jalan",
+            "jalur": [
+              "Industri, KIPA & koridor",
+              "Alih fungsi lahan"
+            ]
+          },
+          {
+            "simpul": "N4",
+            "nama": "Pertambangan batu gamping/marmer & industri semen",
+            "jalur": [
+              "Tambang & semen",
+              "Jasa ekosistem & D3TLH",
+              "Daya dukung pangan"
+            ]
+          },
+          {
+            "simpul": "N5",
+            "nama": "Layanan dasar terbatas (air bersih, sanitasi, jalan, utilitas, permukiman)",
+            "jalur": [
+              "Layanan dasar",
+              "Kekeringan & air",
+              "Daya dukung pangan"
+            ]
+          }
+        ],
+        "penyebab_langsung": [
+          {
+            "simpul": "N1",
+            "nama": "Tata kelola ruang"
+          },
+          {
+            "simpul": "N2",
+            "nama": "Konflik tenurial"
+          },
+          {
+            "simpul": "N3",
+            "nama": "Industri, KIPA & koridor"
+          },
+          {
+            "simpul": "N13",
+            "nama": "Lahan kritis & erosi"
+          },
+          {
+            "simpul": "N14",
+            "nama": "Jasa ekosistem & D3TLH"
+          },
+          {
+            "simpul": "N15",
+            "nama": "Kualitas air"
+          },
+          {
+            "simpul": "N16",
+            "nama": "Kekeringan & air"
+          },
+          {
+            "simpul": "N17",
+            "nama": "Banjir"
+          },
+          {
+            "simpul": "N18",
+            "nama": "Mangrove & pesisir"
+          },
+          {
+            "simpul": "N19",
+            "nama": "Abrasi & rob"
+          },
+          {
+            "simpul": "N20",
+            "nama": "Bencana geologi"
+          }
+        ],
+        "dampak_berantai": {
+          "orde_1": [
+            {
+              "simpul": "N14",
+              "nama": "Jasa ekosistem & D3TLH"
+            },
+            {
+              "simpul": "N17",
+              "nama": "Banjir"
+            }
+          ],
+          "orde_2": [
+            {
+              "simpul": "N16",
+              "nama": "Kekeringan & air"
+            }
+          ],
+          "orde_3": []
+        },
+        "narasi": "Akar masalah: KIPA/koridor KA/jalan, tenurial yang tidak pasti, dan penataan ruang lemah menggerus sawah/LP2B serta memutus irigasi. Produksi pangan turun → pendapatan turun → tekanan menjual/mengonversi lahan (loop penguat)."
+      },
+      {
+        "id": "S4",
+        "isu": "Degradasi dan kerentanan ekosistem pesisir",
+        "akar_masalah": [
+          {
+            "simpul": "N3",
+            "nama": "Ekspansi industri (KIPA), pelabuhan & koridor KA/jalan",
+            "jalur": [
+              "Industri, KIPA & koridor",
+              "Sampah & limbah",
+              "Kualitas air",
+              "Mangrove & pesisir"
+            ]
+          },
+          {
+            "simpul": "N5",
+            "nama": "Layanan dasar terbatas (air bersih, sanitasi, jalan, utilitas, permukiman)",
+            "jalur": [
+              "Layanan dasar",
+              "Sampah & limbah",
+              "Kualitas air",
+              "Mangrove & pesisir"
+            ]
+          }
+        ],
+        "penyebab_langsung": [
+          {
+            "simpul": "N6",
+            "nama": "Cuaca ekstrem"
+          },
+          {
+            "simpul": "N15",
+            "nama": "Kualitas air"
+          }
+        ],
+        "dampak_berantai": {
+          "orde_1": [
+            {
+              "simpul": "N22",
+              "nama": "Penghidupan & kerentanan"
+            }
+          ],
+          "orde_2": [],
+          "orde_3": []
+        },
+        "narasi": "Akar masalah: pencemaran dari hulu (sampah, limbah, kualitas air sungai) dan tekanan pemanfaatan pesisir. Mangrove rusak → pelindung pantai hilang → abrasi/rob meningkat → tambak, garam, perikanan, dan permukiman pesisir terdampak."
+      }
+    ]
+  },
+  "dampak_risiko": {
+    "kriteria_potensi_dampak": [
+      "Jumlah penduduk terkena dampak",
+      "Luas wilayah penyebaran dampak",
+      "Intensitas dan lamanya dampak berlangsung",
+      "Banyaknya komponen lingkungan hidup lain terkena dampak",
+      "Sifat kumulatif dampak",
+      "Berbalik atau tidak berbaliknya dampak",
+      "Kriteria lain (relevansi terhadap RDTR)"
+    ],
+    "aspek_lingkungan_hidup": [
+      "1. Kapasitas D3TLH",
+      "2. Dampak/Risiko LH",
+      "3. Kinerja Jasa Ekosistem",
+      "4. Intensitas & Cakupan Bencana",
+      "5. Mutu & Ketersediaan SDA",
+      "6. Ketahanan & Potensi Kehati",
+      "7. Kerentanan & Adaptasi Perubahan Iklim",
+      "8. Keberlanjutan Penghidupan",
+      "9. Kesehatan & Keselamatan",
+      "10. Kawasan Tradisional/MHA"
+    ],
+    "isu": [
+      {
+        "id": "S1",
+        "nama": "Kerentanan sumber daya air dan bencana akibat perubahan iklim",
+        "tingkat_potensi_dampak": [
+          {
+            "kriteria": "Jumlah penduduk terkena dampak",
+            "tingkat": "Kuat",
+            "skor": 3,
+            "uraian": "Kuat. Banjir tinggi di Bulu Cindea dan Bori Appaka (permukiman), banjir bandang Biring Ere, Mangilu, Sapanang; cuaca ekstrem menjangkau 7 desa. Jumlah jiwa terpapar belum ada di tabulasi KRB."
+          },
+          {
+            "kriteria": "Luas wilayah penyebaran dampak",
+            "tingkat": "Sangat kuat",
+            "skor": 4,
+            "uraian": "Sangat kuat. Multibahaya Tinggi 4.810,4 ha (±90% area KRB); cuaca ekstrem 4.099,5 ha (100% Tinggi); kekeringan 5.349,5 ha; banjir 2.932,3 ha."
+          },
+          {
+            "kriteria": "Intensitas dan lamanya dampak berlangsung",
+            "tingkat": "Kuat",
+            "skor": 3,
+            "uraian": "Kuat. Banjir berulang (Sapanang, Siloro Ngilu, Bori Appaka) dan kekeringan musiman; kapasitas kekeringan Rendah (0,309). Data frekuensi (BPBD) perlu dilengkapi."
+          },
+          {
+            "kriteria": "Banyaknya komponen lingkungan hidup lain terkena dampak",
+            "tingkat": "Sangat kuat",
+            "skor": 4,
+            "uraian": "Sangat kuat. Memengaruhi air bersih/irigasi, sawah, permukiman, sungai, kesehatan, dan penghidupan."
+          },
+          {
+            "kriteria": "Sifat kumulatif dampak",
+            "tingkat": "Sangat kuat",
+            "skor": 4,
+            "uraian": "Sangat kuat. Membentuk loop penguat: kapasitas adaptasi–banjir–kerentanan sosial (R4) dan jasa air–banjir–lahan kritis (R3)."
+          },
+          {
+            "kriteria": "Berbalik atau tidak berbaliknya dampak",
+            "tingkat": "Sedang",
+            "skor": 2,
+            "uraian": "Sedang. Banjir dan kekeringan bersifat berulang dan sebagian dapat dipulihkan; sedimentasi dan hilangnya resapan sulit dipulihkan."
+          },
+          {
+            "kriteria": "Kriteria lain (relevansi terhadap RDTR)",
+            "tingkat": "Sangat kuat",
+            "skor": 4,
+            "uraian": "Sangat kuat. Sempadan sungai, drainase, zona rawan bencana, resapan, dan ruang evakuasi diatur langsung oleh RDTR."
+          }
+        ],
+        "kaitan_aspek_lh": [
+          {
+            "aspek": "1. Kapasitas D3TLH",
+            "uraian": "D3TLH terlampaui 1.178,8 ha (13,1%), terbesar di Samalewa (43,7% luas desa) dan Bowong Cindea (32,3%); JLH pengatur air SR–rendah 52,7%."
+          },
+          {
+            "aspek": "2. Dampak/Risiko LH",
+            "uraian": "Risiko banjir 2.900,7 ha (sedang), bandang 285,4 ha (tinggi), kekeringan 5.341,8 ha, cuaca ekstrem 4.099,5 ha."
+          },
+          {
+            "aspek": "3. Kinerja Jasa Ekosistem",
+            "uraian": "JLH penyedia air kelas sedang 4.710 ha (52,6%) dan rendah 3.940,8 ha (44,0%); penyangga limpasan lemah."
+          },
+          {
+            "aspek": "4. Intensitas & Cakupan Bencana",
+            "uraian": "Multibahaya Tinggi 4.810,4 ha; banjir Tinggi 1.323,3 ha; longsor Tinggi 754,2 ha (Mangilu, Samalewa, Biring Ere)."
+          },
+          {
+            "aspek": "5. Mutu & Ketersediaan SDA",
+            "uraian": "Air minum bergantung tangki; PAH belum optimal; irigasi terputus overpass; kualitas air menurun (#86, #104, #106, #107)."
+          },
+          {
+            "aspek": "6. Ketahanan & Potensi Kehati",
+            "uraian": "JLH habitat/kehati SR–rendah 68,5%; mangrove dan KBA pesisir terdampak banjir/pencemaran hulu."
+          },
+          {
+            "aspek": "7. Kerentanan & Adaptasi Perubahan Iklim",
+            "uraian": "Kerentanan iklim 100% kelas sedang (8.938,4 ha); kapasitas kekeringan 0,309 (Rendah), banjir 0,447."
+          },
+          {
+            "aspek": "8. Keberlanjutan Penghidupan",
+            "uraian": "Petani/penggarap terdampak banjir dan kekeringan; usaha di sempadan sungai terdampak luapan (Sapanang, Siloro Ngilu)."
+          },
+          {
+            "aspek": "9. Kesehatan & Keselamatan",
+            "uraian": "Banjir berulang di Sapanang, Bori Appaka, Siloro Ngilu; jiwa terpapar belum tersedia."
+          },
+          {
+            "aspek": "10. Kawasan Tradisional/MHA",
+            "uraian": "-"
+          }
+        ],
+        "sintesis": {
+          "centang_kriteria": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+          ],
+          "jumlah_centang": 6,
+          "kaitan_aspek": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "hasil_analisis": "Isu PB Paling Strategis (usulan)"
+        }
+      },
+      {
+        "id": "S2",
+        "nama": "Penurunan kualitas lingkungan dan fungsi jasa ekosistem",
+        "tingkat_potensi_dampak": [
+          {
+            "kriteria": "Jumlah penduduk terkena dampak",
+            "tingkat": "Sedang",
+            "skor": 2,
+            "uraian": "Sedang. Paparan debu/emisi (Sapanang, Mangilu), sanitasi dan penyakit vektor; Sapanang memiliki 1.733 KK, 700 lansia, 560 warga kurang mampu. Jiwa terpapar belum terukur."
+          },
+          {
+            "kriteria": "Luas wilayah penyebaran dampak",
+            "tingkat": "Sangat kuat",
+            "skor": 4,
+            "uraian": "Sangat kuat. D3TLH terlampaui 1.178,8 ha (13,1%); JLH penyedia air SR–sedang 98,9%; habitat SR–rendah 68,5%; karbon SR–rendah 82,0%; tutupan tambang 457,6 ha."
+          },
+          {
+            "kriteria": "Intensitas dan lamanya dampak berlangsung",
+            "tingkat": "Kuat",
+            "skor": 3,
+            "uraian": "Kuat. Tambang dan industri beroperasi rutin; emisi debu berkelanjutan; D3TLH terlampaui menetap."
+          },
+          {
+            "kriteria": "Banyaknya komponen lingkungan hidup lain terkena dampak",
+            "tingkat": "Sangat kuat",
+            "skor": 4,
+            "uraian": "Sangat kuat. Udara, air, tanah, karst, kehati, jasa ekosistem, kesehatan."
+          },
+          {
+            "kriteria": "Sifat kumulatif dampak",
+            "tingkat": "Sangat kuat",
+            "skor": 4,
+            "uraian": "Sangat kuat. Karst rusak → lahan kritis → jasa air turun → banjir/kekeringan; beban limbah dan debu bertambah."
+          },
+          {
+            "kriteria": "Berbalik atau tidak berbaliknya dampak",
+            "tingkat": "Sangat kuat",
+            "skor": 4,
+            "uraian": "Sangat kuat. Kerusakan karst dan lahan kritis 99,2% sangat kritis (Tabo-Tabo) sulit atau tidak dapat dipulihkan."
+          },
+          {
+            "kriteria": "Kriteria lain (relevansi terhadap RDTR)",
+            "tingkat": "Sangat kuat",
+            "skor": 4,
+            "uraian": "Sangat kuat. Zona lindung karst, zonasi tambang/industri, RTH, dan buffer permukiman diatur RDTR."
+          }
+        ],
+        "kaitan_aspek_lh": [
+          {
+            "aspek": "1. Kapasitas D3TLH",
+            "uraian": "D3TLH terlampaui 1.178,8 ha (13,1%): Samalewa 360,2 ha, Mangilu 275,0 ha, Bulu Cindea 179,1 ha."
+          },
+          {
+            "aspek": "2. Dampak/Risiko LH",
+            "uraian": "Lahan kritis Tabo-Tabo 435,4 ha (99,2% sangat kritis); tutupan tambang 457,6 ha; WIUP 214,1 ha; risiko karhutla Tinggi 2.604,2 ha."
+          },
+          {
+            "aspek": "3. Kinerja Jasa Ekosistem",
+            "uraian": "JLH habitat SR–rendah 68,5%; karbon SR–rendah 82,0%; JLH tidak tinggi 57,5%; JLH tinggi 3.810,5 ha terpusat di Tabo-Tabo dan Mangilu."
+          },
+          {
+            "aspek": "4. Intensitas & Cakupan Bencana",
+            "uraian": "Karhutla bahaya sedang 4.990,6 ha dengan kapasitas rendah (0,309); gerakan tanah menengah 466,4 ha; KRB gempabumi menengah 2.950,1 ha."
+          },
+          {
+            "aspek": "5. Mutu & Ketersediaan SDA",
+            "uraian": "Air sungai/air tanah menurun (#86, #161); debu mengganggu udara (#20, #97, #172); sungai bawah tanah karst terancam (#101)."
+          },
+          {
+            "aspek": "6. Ketahanan & Potensi Kehati",
+            "uraian": "KBAK ±2.000,2 ha; vegetasi karst ±1.297,8 ha; KBA 24,8 ha; benturan tambang–konservasi (#145, #169)."
+          },
+          {
+            "aspek": "7. Kerentanan & Adaptasi Perubahan Iklim",
+            "uraian": "Kerentanan iklim sedang 100%; FOLU Net Sink 1.575,8 ha dan PIPPIB 1.998,2 ha di Tabo-Tabo perlu dijaga."
+          },
+          {
+            "aspek": "8. Keberlanjutan Penghidupan",
+            "uraian": "Manfaat industri/marmer belum merata (#29); lapangan kerja (#133, #134) dan UMKM (#135) perlu diakomodasi."
+          },
+          {
+            "aspek": "9. Kesehatan & Keselamatan",
+            "uraian": "Debu/emisi Semen Tonasa (Sapanang, Mangilu), sanitasi dan penyakit vektor (#20, #24, #59, #94, #97)."
+          },
+          {
+            "aspek": "10. Kawasan Tradisional/MHA",
+            "uraian": "*Situs/kawasan keramat (Sapanang, Temmu Taung), makam raja, Borong Untie Saile berpotensi terdampak (#26, #113, #120, #121); verifikasi status."
+          }
+        ],
+        "sintesis": {
+          "centang_kriteria": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "jumlah_centang": 6,
+          "kaitan_aspek": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "*10"
+          ],
+          "hasil_analisis": "Isu PB Paling Strategis (usulan)"
+        }
+      },
+      {
+        "id": "S3",
+        "nama": "Kerentanan lahan pertanian dan jasa penyedia pangan",
+        "tingkat_potensi_dampak": [
+          {
+            "kriteria": "Jumlah penduduk terkena dampak",
+            "tingkat": "Kuat",
+            "skor": 3,
+            "uraian": "Kuat. Petani, penggarap, dan pemilik tanpa bukti hak; pembebasan lahan sawah jalur KAI; indikasi konflik sawah/LP2B di Sapanang–Samalewa. Jiwa belum terukur."
+          },
+          {
+            "kriteria": "Luas wilayah penyebaran dampak",
+            "tingkat": "Kuat",
+            "skor": 3,
+            "uraian": "Kuat. Sawah 2.480,9 ha (27,7%), LP2B 1.697,9 ha; JLH penyedia pangan Tinggi–Sangat Tinggi 2.746,4 ha (49,7%)."
+          },
+          {
+            "kriteria": "Intensitas dan lamanya dampak berlangsung",
+            "tingkat": "Kuat",
+            "skor": 3,
+            "uraian": "Kuat. Pertanian tadah hujan, MT3 Tabo-Tabo belum jelas, irigasi terputus; konversi bersifat menetap."
+          },
+          {
+            "kriteria": "Banyaknya komponen lingkungan hidup lain terkena dampak",
+            "tingkat": "Kuat",
+            "skor": 3,
+            "uraian": "Kuat. Air, tanah, penghidupan, pangan, dan habitat lanskap budidaya."
+          },
+          {
+            "kriteria": "Sifat kumulatif dampak",
+            "tingkat": "Sangat kuat",
+            "skor": 4,
+            "uraian": "Sangat kuat. Loop penguat alih fungsi–pangan–penghidupan (R1, Σ skor 8) dan R2 (Σ skor 14)."
+          },
+          {
+            "kriteria": "Berbalik atau tidak berbaliknya dampak",
+            "tingkat": "Sangat kuat",
+            "skor": 4,
+            "uraian": "Sangat kuat. Konversi sawah menjadi lahan terbangun/industri tidak dapat dibalik."
+          },
+          {
+            "kriteria": "Kriteria lain (relevansi terhadap RDTR)",
+            "tingkat": "Sangat kuat",
+            "skor": 4,
+            "uraian": "Sangat kuat. Pola ruang, LP2B, jalan tani, dan jaringan irigasi diatur langsung oleh RDTR."
+          }
+        ],
+        "kaitan_aspek_lh": [
+          {
+            "aspek": "1. Kapasitas D3TLH",
+            "uraian": "D3TLH terlampaui di Samalewa 43,7%, Bowong Cindea 32,3%, Mangilu 21,2% luas desa (sentra sawah/lahan kering)."
+          },
+          {
+            "aspek": "2. Dampak/Risiko LH",
+            "uraian": "Risiko banjir 2.900,7 ha dan kekeringan 5.341,8 ha menjangkau lahan pertanian; sawah 2.480,9 ha; LP2B 1.697,9 ha."
+          },
+          {
+            "aspek": "3. Kinerja Jasa Ekosistem",
+            "uraian": "JLH penyedia pangan Tinggi–Sangat Tinggi 2.746,4 ha (49,7%) rentan konversi; kelas rendah 866,9 ha."
+          },
+          {
+            "aspek": "4. Intensitas & Cakupan Bencana",
+            "uraian": "Banjir Tinggi 1.323,3 ha, kekeringan 5.349,5 ha, cuaca ekstrem 4.099,5 ha menjangkau area sawah."
+          },
+          {
+            "aspek": "5. Mutu & Ketersediaan SDA",
+            "uraian": "Air terbatas dan tadah hujan (#105, #139); MT3 Tabo-Tabo (#137); irigasi terputus (#104); jalan tani (#140)."
+          },
+          {
+            "aspek": "6. Ketahanan & Potensi Kehati",
+            "uraian": "JLH habitat SR–rendah 68,5%; lanskap sawah, tambak 1.324,9 ha, dan lahan kering campur 1.786,0 ha minim habitat."
+          },
+          {
+            "aspek": "7. Kerentanan & Adaptasi Perubahan Iklim",
+            "uraian": "Pertanian tadah hujan sangat peka variabilitas iklim; kapasitas kekeringan Rendah."
+          },
+          {
+            "aspek": "8. Keberlanjutan Penghidupan",
+            "uraian": "Petani, penggarap, pemilik tanpa hak formal (#71, #128); pembebasan sawah jalur KAI (#136); konflik sawah/LP2B (#25)."
+          },
+          {
+            "aspek": "9. Kesehatan & Keselamatan",
+            "uraian": "Produksi pangan melandai dibanding pertumbuhan penduduk (#36); ketahanan pangan lokal."
+          },
+          {
+            "aspek": "10. Kawasan Tradisional/MHA",
+            "uraian": "*Kelompok adat/pemukim lama di Sapanang, Biring Ere, Bori Appaka mengolah lahan (#132); verifikasi status ulayat."
+          }
+        ],
+        "sintesis": {
+          "centang_kriteria": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "jumlah_centang": 7,
+          "kaitan_aspek": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "*10"
+          ],
+          "hasil_analisis": "Isu PB Paling Strategis (usulan)"
+        }
+      },
+      {
+        "id": "S4",
+        "nama": "Degradasi dan kerentanan ekosistem pesisir",
+        "tingkat_potensi_dampak": [
+          {
+            "kriteria": "Jumlah penduduk terkena dampak",
+            "tingkat": "Sedang",
+            "skor": 2,
+            "uraian": "Sedang. Masyarakat pesisir Bori Appaka dan Bulu Cindea (tambak, garam, rumput laut); jiwa belum terukur."
+          },
+          {
+            "kriteria": "Luas wilayah penyebaran dampak",
+            "tingkat": "Sedang",
+            "skor": 2,
+            "uraian": "Sedang. GEA 110,4 ha, tsunami 1.586,6 ha (rendah), mangrove 51,1 ha, tambak 1.324,9 ha; cakupan terbatas pada dua desa."
+          },
+          {
+            "kriteria": "Intensitas dan lamanya dampak berlangsung",
+            "tingkat": "Kuat",
+            "skor": 3,
+            "uraian": "Kuat. Abrasi, rob, dan tekanan terhadap mangrove berlangsung terus-menerus."
+          },
+          {
+            "kriteria": "Banyaknya komponen lingkungan hidup lain terkena dampak",
+            "tingkat": "Kuat",
+            "skor": 3,
+            "uraian": "Kuat. Mangrove, tambak, kualitas perairan, KBA 24,8 ha, dan penghidupan pesisir."
+          },
+          {
+            "kriteria": "Sifat kumulatif dampak",
+            "tingkat": "Sangat kuat",
+            "skor": 4,
+            "uraian": "Sangat kuat. Loop mangrove–abrasi saling memperkuat (R5)."
+          },
+          {
+            "kriteria": "Berbalik atau tidak berbaliknya dampak",
+            "tingkat": "Kuat",
+            "skor": 3,
+            "uraian": "Kuat. Mangrove dapat direhabilitasi, namun abrasi dan kehilangan lahan pesisir sulit dipulihkan."
+          },
+          {
+            "kriteria": "Kriteria lain (relevansi terhadap RDTR)",
+            "tingkat": "Kuat",
+            "skor": 3,
+            "uraian": "Kuat. Sempadan pantai, zona lindung mangrove, dan pemanfaatan tambak/pelabuhan diatur RDTR."
+          }
+        ],
+        "kaitan_aspek_lh": [
+          {
+            "aspek": "1. Kapasitas D3TLH",
+            "uraian": "D3TLH terlampaui di Bulu Cindea 179,1 ha (19,1%); Bori Appaka relatif terjaga (1,3%)."
+          },
+          {
+            "aspek": "2. Dampak/Risiko LH",
+            "uraian": "Risiko GEA 110,0 ha dan tsunami 1.586,7 ha (sedang); mangrove 51,1 ha; tambak 1.324,9 ha."
+          },
+          {
+            "aspek": "3. Kinerja Jasa Ekosistem",
+            "uraian": "Jasa ekosistem pesisir menurun (#37); mangrove sebagai pelindung pantai dan pendukung perikanan."
+          },
+          {
+            "aspek": "4. Intensitas & Cakupan Bencana",
+            "uraian": "GEA 110,4 ha (Bulu Cindea 85,4 ha; Bori Appaka 25,0 ha); tsunami rendah 1.586,6 ha; kapasitas GEA 0,387, tsunami 0,351."
+          },
+          {
+            "aspek": "5. Mutu & Ketersediaan SDA",
+            "uraian": "Kualitas air sungai dan perairan pesisir menurun (#161); lahan pesisir/negara dimanfaatkan warga (#129)."
+          },
+          {
+            "aspek": "6. Ketahanan & Potensi Kehati",
+            "uraian": "Mangrove 51,1 ha (91,9% lebat); KBA Kapoposang–Pangkep–Bulurokeng 24,8 ha."
+          },
+          {
+            "aspek": "7. Kerentanan & Adaptasi Perubahan Iklim",
+            "uraian": "Abrasi, rob, dan gelombang ekstrem memperkuat kerentanan pesisir; kapasitas GEA 0,387."
+          },
+          {
+            "aspek": "8. Keberlanjutan Penghidupan",
+            "uraian": "Masyarakat pesisir bergantung garam, tambak, rumput laut (#138); nilai tambah ekonomi pesisir (#31)."
+          },
+          {
+            "aspek": "9. Kesehatan & Keselamatan",
+            "uraian": "Sanitasi, gizi, dan kesehatan lingkungan pesisir (#24); paparan GEA/tsunami pada permukiman pesisir."
+          },
+          {
+            "aspek": "10. Kawasan Tradisional/MHA",
+            "uraian": "-"
+          }
+        ],
+        "sintesis": {
+          "centang_kriteria": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "jumlah_centang": 5,
+          "kaitan_aspek": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "hasil_analisis": "Isu PB Paling Strategis (usulan)"
+        }
+      }
+    ]
+  },
+  "data_krb": [
+    {
+      "jenis": "Banjir",
+      "luas_bahaya_ha": 2932.3,
+      "kelas_bahaya": "Tinggi (tinggi 1.323,3 ha; 45%)",
+      "kelas_risiko": "Sedang (2.900,7 ha; tinggi 0,2 ha)",
+      "penduduk_terpapar_jiwa": null,
+      "kerugian_rp_miliar": null,
+      "kerusakan_lh_ha": null,
+      "indeks_kapasitas": 0.447,
+      "kelas_kapasitas": "Sedang",
+      "variabel_loop": "N17"
+    },
+    {
+      "jenis": "Banjir bandang",
+      "luas_bahaya_ha": 297.3,
+      "kelas_bahaya": "Tinggi (tinggi 187,3 ha)",
+      "kelas_risiko": "Tinggi (285,4 ha; tinggi 146,6 ha)",
+      "penduduk_terpapar_jiwa": null,
+      "kerugian_rp_miliar": null,
+      "kerusakan_lh_ha": null,
+      "indeks_kapasitas": 0.454,
+      "kelas_kapasitas": "Sedang",
+      "variabel_loop": "N17"
+    },
+    {
+      "jenis": "Tanah longsor",
+      "luas_bahaya_ha": 1566.7,
+      "kelas_bahaya": "Tinggi (tinggi 754,2 ha)",
+      "kelas_risiko": "Sedang (1.566,7 ha)",
+      "penduduk_terpapar_jiwa": null,
+      "kerugian_rp_miliar": null,
+      "kerusakan_lh_ha": null,
+      "indeks_kapasitas": 0.354,
+      "kelas_kapasitas": "Sedang",
+      "variabel_loop": "N20"
+    },
+    {
+      "jenis": "Cuaca ekstrem",
+      "luas_bahaya_ha": 4099.5,
+      "kelas_bahaya": "Tinggi (100%)",
+      "kelas_risiko": "Sedang (4.099,5 ha)",
+      "penduduk_terpapar_jiwa": null,
+      "kerugian_rp_miliar": null,
+      "kerusakan_lh_ha": null,
+      "indeks_kapasitas": 0.438,
+      "kelas_kapasitas": "Sedang",
+      "variabel_loop": "N6"
+    },
+    {
+      "jenis": "Kekeringan",
+      "luas_bahaya_ha": 5349.5,
+      "kelas_bahaya": "Sedang",
+      "kelas_risiko": "Sedang (5.341,8 ha)",
+      "penduduk_terpapar_jiwa": null,
+      "kerugian_rp_miliar": null,
+      "kerusakan_lh_ha": null,
+      "indeks_kapasitas": 0.309,
+      "kelas_kapasitas": "Rendah",
+      "variabel_loop": "N16"
+    },
+    {
+      "jenis": "Gelombang ekstrem & abrasi (GEA)",
+      "luas_bahaya_ha": 110.4,
+      "kelas_bahaya": "Sedang",
+      "kelas_risiko": "Sedang (110,0 ha)",
+      "penduduk_terpapar_jiwa": null,
+      "kerugian_rp_miliar": null,
+      "kerusakan_lh_ha": null,
+      "indeks_kapasitas": 0.387,
+      "kelas_kapasitas": "Sedang",
+      "variabel_loop": "N19"
+    },
+    {
+      "jenis": "Kebakaran hutan & lahan",
+      "luas_bahaya_ha": 4990.6,
+      "kelas_bahaya": "Sedang",
+      "kelas_risiko": "Tinggi (3.419,6 ha; tinggi 2.604,2 ha)",
+      "penduduk_terpapar_jiwa": null,
+      "kerugian_rp_miliar": null,
+      "kerusakan_lh_ha": null,
+      "indeks_kapasitas": 0.309,
+      "kelas_kapasitas": "Rendah",
+      "variabel_loop": "N12"
+    },
+    {
+      "jenis": "Gempabumi",
+      "luas_bahaya_ha": 5331.3,
+      "kelas_bahaya": "Rendah (peta KRB: menengah 2.950,1 ha)",
+      "kelas_risiko": "Rendah (5.331,3 ha)",
+      "penduduk_terpapar_jiwa": null,
+      "kerugian_rp_miliar": null,
+      "kerusakan_lh_ha": null,
+      "indeks_kapasitas": 0.352,
+      "kelas_kapasitas": "Sedang",
+      "variabel_loop": "N20"
+    },
+    {
+      "jenis": "Tsunami",
+      "luas_bahaya_ha": 1586.6,
+      "kelas_bahaya": "Rendah",
+      "kelas_risiko": "Sedang (1.586,7 ha)",
+      "penduduk_terpapar_jiwa": null,
+      "kerugian_rp_miliar": null,
+      "kerusakan_lh_ha": null,
+      "indeks_kapasitas": 0.351,
+      "kelas_kapasitas": "Sedang",
+      "variabel_loop": "N19"
+    },
+    {
+      "jenis": "Multibahaya",
+      "luas_bahaya_ha": 5333.5,
+      "kelas_bahaya": "Tinggi (tinggi 4.810,4 ha)",
+      "kelas_risiko": "Sedang (5.322,2 ha; tinggi 16,1 ha)",
+      "penduduk_terpapar_jiwa": null,
+      "kerugian_rp_miliar": null,
+      "kerusakan_lh_ha": null,
+      "indeks_kapasitas": 0.367,
+      "kelas_kapasitas": "Sedang",
+      "variabel_loop": "Gabungan"
+    }
+  ],
+  "penyepakatan": {
+    "kegiatan": "",
+    "tanggal": "",
+    "peserta_hadir": 0,
+    "syarat": "maj",
+    "hasil": [
+      {
+        "id": "S1",
+        "isu": "Kerentanan sumber daya air dan bencana akibat perubahan iklim",
+        "setuju": 0,
+        "tidak_setuju": 0,
+        "abstain": 0,
+        "persen_setuju": 0,
+        "status": "Belum disepakati"
+      },
+      {
+        "id": "S2",
+        "isu": "Penurunan kualitas lingkungan dan fungsi jasa ekosistem",
+        "setuju": 0,
+        "tidak_setuju": 0,
+        "abstain": 0,
+        "persen_setuju": 0,
+        "status": "Belum disepakati"
+      },
+      {
+        "id": "S3",
+        "isu": "Kerentanan lahan pertanian dan jasa penyedia pangan",
+        "setuju": 0,
+        "tidak_setuju": 0,
+        "abstain": 0,
+        "persen_setuju": 0,
+        "status": "Belum disepakati"
+      },
+      {
+        "id": "S4",
+        "isu": "Degradasi dan kerentanan ekosistem pesisir",
+        "setuju": 0,
+        "tidak_setuju": 0,
+        "abstain": 0,
+        "persen_setuju": 0,
+        "status": "Belum disepakati"
+      }
+    ],
+    "catatan": ""
+  }
+}
